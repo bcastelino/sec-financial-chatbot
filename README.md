@@ -1,4 +1,3 @@
-<!-- Project Icon -->
 <p align="center">
   <img src="icon.svg" alt="SEC Financial Chatbot Icon" width="90"/>
 </p>
@@ -36,6 +35,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about SEC 
    ```bash
    python ingestor.py
    ```
+   > **Note:** The ChromaDB vector database will be loaded and populated after running the `ingestor.py` file.
 
 3. **Launch the Web App**  
    ```bash
@@ -73,6 +73,130 @@ SEC-chatbot/
 ├── sec_filings_edgartools.ipynb # Jupyter notebook for exploring SEC filings/EDGAR tools
 ├── requirements.txt       # Python dependencies
 └── README.md
+```
+
+---
+
+## 🗂️ About `chroma_db/`
+
+The `chroma_db/` folder contains the persistent vector database used by the chatbot. It stores:
+- **Vector embeddings** of all SEC filing text and XBRL chunks
+- **Indexes** for fast similarity search and retrieval
+- **Metadata** for each chunk (company, year, section, etc.)
+- **Database state** so ChromaDB can resume or update without re-ingestion
+
+Actual files to expect:
+- `chroma.sqlite3` — The main SQLite database file for ChromaDB.
+- Folders with UUID-like names (e.g., `838676d0-d288-4b32-aa0b-bc54d90e9fce/`) — Contain binary data, index files, and metadata for the vector store.
+- Binary files (e.g., `data_level0.bin`, `header.bin`) — Store the actual vector data and index structures.
+- `index_metadata.pickle` — Stores metadata about the vector index.
+
+This folder is required for the chatbot to function. If deleted, you must re-run the ingestion process to rebuild the vector database.
+
+---
+## 🔗 Workflow
+
+```mermaid
+flowchart TD
+    %% External Services
+    subgraph "External Services"
+        SEC["SEC EDGAR"]:::ext
+        LLM["OpenRouter LLM API"]:::ext
+    end
+
+    %% Data Ingestion Layer
+    subgraph "Data Ingestion Layer"
+        Extractor["Extractor<br>(extractor.py)"]:::proc
+        Ingestor["Ingestor<br>(ingestor.py)"]:::proc
+    end
+
+    %% Storage
+    subgraph "Storage"
+        Raw["Raw Filings<br>(data/filings/)"]:::storage
+        XBRL["XBRL CSV Exports<br>(data/xbrl/)"]:::storage
+        Metadata["Filings Metadata<br>(data/filings_metadata.json)"]:::storage
+        Chroma["ChromaDB<br>(chroma_db/)"]:::storage
+    end
+
+    %% Retrieval & Analysis Layer
+    subgraph "RAG Layer"
+        Retriever["Retriever<br>(retriever.py)"]:::proc
+        Analyzer["Analyzer<br>(analyzer.py)"]:::proc
+    end
+
+    %% Presentation Layer
+    subgraph "Presentation Layer"
+        UI["Streamlit UI<br>(streamlit_app.py)"]:::ui
+        Styles["styles.css"]:::config
+    end
+
+    %% Configuration and Miscellaneous
+    Config["config.py"]:::config
+    Notebook["sec_filings_edgartools.ipynb"]:::config
+    Env[".env.example"]:::config
+    Req["requirements.txt"]:::config
+    Readme["README.md"]:::config
+    License["LICENSE"]:::config
+    Report["Ingestion_report.txt"]:::config
+
+    %% Data Flows
+    SEC -->|pull filings| Extractor
+    Extractor -->|writes text| Raw
+    Extractor -->|writes XBRL CSV| XBRL
+    Extractor -->|writes metadata| Metadata
+
+    Raw -->|read| Ingestor
+    XBRL -->|read| Ingestor
+    Ingestor -->|embeds & stores| Chroma
+
+    UI -->|user query| Analyzer
+    Analyzer -->|calls| Retriever
+    Retriever -->|vector search| Chroma
+    Retriever -->|fact lookup| XBRL
+    Analyzer -->|prompts| LLM
+    LLM -->|response| Analyzer
+    Analyzer -->|answers| UI
+
+    %% Configuration Controls
+    Config -.-> Extractor
+    Config -.-> Ingestor
+    Config -.-> Retriever
+    Config -.-> Analyzer
+    Config -.-> UI
+
+    %% Miscellaneous Links
+    Notebook -.-> Extractor
+    Env -.-> Config
+    Req -.-> Config
+    Readme -.-> Config
+    License -.-> Config
+    Report -.-> Ingestor
+
+    %% Click Events
+    click Extractor "https://github.com/bcastelino/sec-financial-chatbot/blob/main/extractor.py"
+    click Ingestor "https://github.com/bcastelino/sec-financial-chatbot/blob/main/ingestor.py"
+    click Retriever "https://github.com/bcastelino/sec-financial-chatbot/blob/main/retriever.py"
+    click Analyzer "https://github.com/bcastelino/sec-financial-chatbot/blob/main/analyzer.py"
+    click UI "https://github.com/bcastelino/sec-financial-chatbot/blob/main/streamlit_app.py"
+    click Styles "https://github.com/bcastelino/sec-financial-chatbot/blob/main/styles.css"
+    click Config "https://github.com/bcastelino/sec-financial-chatbot/blob/main/config.py"
+    click Raw "https://github.com/bcastelino/sec-financial-chatbot/tree/main/data/filings/"
+    click XBRL "https://github.com/bcastelino/sec-financial-chatbot/tree/main/data/xbrl/"
+    click Metadata "https://github.com/bcastelino/sec-financial-chatbot/blob/main/data/filings_metadata.json"
+    click Chroma "https://github.com/bcastelino/sec-financial-chatbot/tree/main/chroma_db/"
+    click Notebook "https://github.com/bcastelino/sec-financial-chatbot/blob/main/sec_filings_edgartools.ipynb"
+    click Env "https://github.com/bcastelino/sec-financial-chatbot/blob/main/.env.example"
+    click Req "https://github.com/bcastelino/sec-financial-chatbot/blob/main/requirements.txt"
+    click Readme "https://github.com/bcastelino/sec-financial-chatbot/blob/main/README.md"
+    click License "https://github.com/bcastelino/sec-financial-chatbot/tree/main/LICENSE"
+    click Report "https://github.com/bcastelino/sec-financial-chatbot/blob/main/Ingestion_report.txt"
+
+    %% Styles
+    classDef storage fill:#cce5ff,stroke:#333
+    classDef proc fill:#d4edda,stroke:#333
+    classDef ext fill:#f8d7da,stroke:#333
+    classDef ui fill:#f5c6cb,stroke:#333
+    classDef config fill:#fff3cd,stroke:#333
 ```
 
 ---
