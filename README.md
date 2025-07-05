@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about SEC 
   <tr>
     <td align="center">
       <img src="/screenshots/sec-chatbot-main.png" alt="ChatBot UI" width="500"/><br/>
-      <strong>SEC UI</strong>
+      <strong>ChatBot UI</strong>
     </td>
     <td align="center">
       <img src="/screenshots/sec-chatbot-ui.png" alt="ChatRoom" width="500"/><br/>
