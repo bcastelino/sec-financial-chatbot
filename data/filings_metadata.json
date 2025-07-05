@@ -1,0 +1,1472 @@
+{
+  "companies": {
+    "AAPL": {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "filings": [
+        {
+          "accession_number": "0000320193-24-000123",
+          "filing_date": "2024-11-01",
+          "form": "10-K",
+          "company_name": "Apple Inc.",
+          "ticker": "AAPL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0000320193-23-000106",
+          "filing_date": "2023-11-03",
+          "form": "10-K",
+          "company_name": "Apple Inc.",
+          "ticker": "AAPL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0000320193-22-000108",
+          "filing_date": "2022-10-28",
+          "form": "10-K",
+          "company_name": "Apple Inc.",
+          "ticker": "AAPL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0000320193-21-000105",
+          "filing_date": "2021-10-29",
+          "form": "10-K",
+          "company_name": "Apple Inc.",
+          "ticker": "AAPL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0000320193-20-000096",
+          "filing_date": "2020-10-30",
+          "form": "10-K",
+          "company_name": "Apple Inc.",
+          "ticker": "AAPL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "filings": [
+        {
+          "accession_number": "0000950170-24-087843",
+          "filing_date": "2024-07-30",
+          "form": "10-K",
+          "company_name": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0000950170-23-035122",
+          "filing_date": "2023-07-27",
+          "form": "10-K",
+          "company_name": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001564590-22-026876",
+          "filing_date": "2022-07-28",
+          "form": "10-K",
+          "company_name": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001564590-21-039151",
+          "filing_date": "2021-07-29",
+          "form": "10-K",
+          "company_name": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001564590-20-034944",
+          "filing_date": "2020-07-30",
+          "form": "10-K",
+          "company_name": "Microsoft Corporation",
+          "ticker": "MSFT",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        }
+      ]
+    },
+    "GOOGL": {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "filings": [
+        {
+          "accession_number": "0001652044-25-000014",
+          "filing_date": "2025-02-05",
+          "form": "10-K",
+          "company_name": "Alphabet Inc.",
+          "ticker": "GOOGL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001652044-24-000022",
+          "filing_date": "2024-01-31",
+          "form": "10-K",
+          "company_name": "Alphabet Inc.",
+          "ticker": "GOOGL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001652044-23-000016",
+          "filing_date": "2023-02-03",
+          "form": "10-K",
+          "company_name": "Alphabet Inc.",
+          "ticker": "GOOGL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001652044-22-000019",
+          "filing_date": "2022-02-02",
+          "form": "10-K",
+          "company_name": "Alphabet Inc.",
+          "ticker": "GOOGL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001652044-21-000010",
+          "filing_date": "2021-02-03",
+          "form": "10-K",
+          "company_name": "Alphabet Inc.",
+          "ticker": "GOOGL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001652044-20-000008",
+          "filing_date": "2020-02-04",
+          "form": "10-K",
+          "company_name": "Alphabet Inc.",
+          "ticker": "GOOGL",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "filings": [
+        {
+          "accession_number": "0001018724-25-000004",
+          "filing_date": "2025-02-07",
+          "form": "10-K",
+          "company_name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001018724-24-000008",
+          "filing_date": "2024-02-02",
+          "form": "10-K",
+          "company_name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001018724-23-000004",
+          "filing_date": "2023-02-03",
+          "form": "10-K",
+          "company_name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001018724-22-000005",
+          "filing_date": "2022-02-04",
+          "form": "10-K",
+          "company_name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001018724-21-000004",
+          "filing_date": "2021-02-03",
+          "form": "10-K",
+          "company_name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001018724-20-000004",
+          "filing_date": "2020-01-31",
+          "form": "10-K",
+          "company_name": "Amazon.com Inc.",
+          "ticker": "AMZN",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        }
+      ]
+    },
+    "NVDA": {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "filings": [
+        {
+          "accession_number": "0001045810-25-000023",
+          "filing_date": "2025-02-26",
+          "form": "10-K",
+          "company_name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001045810-24-000029",
+          "filing_date": "2024-02-21",
+          "form": "10-K",
+          "company_name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001045810-23-000017",
+          "filing_date": "2023-02-24",
+          "form": "10-K",
+          "company_name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001045810-22-000036",
+          "filing_date": "2022-03-18",
+          "form": "10-K",
+          "company_name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001045810-21-000010",
+          "filing_date": "2021-02-26",
+          "form": "10-K",
+          "company_name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001045810-20-000010",
+          "filing_date": "2020-02-20",
+          "form": "10-K",
+          "company_name": "NVIDIA Corporation",
+          "ticker": "NVDA",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        }
+      ]
+    },
+    "META": {
+      "name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "filings": [
+        {
+          "accession_number": "0001326801-25-000017",
+          "filing_date": "2025-01-30",
+          "form": "10-K",
+          "company_name": "Meta Platforms Inc.",
+          "ticker": "META",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001326801-24-000012",
+          "filing_date": "2024-02-02",
+          "form": "10-K",
+          "company_name": "Meta Platforms Inc.",
+          "ticker": "META",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001326801-23-000013",
+          "filing_date": "2023-02-02",
+          "form": "10-K",
+          "company_name": "Meta Platforms Inc.",
+          "ticker": "META",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001326801-22-000018",
+          "filing_date": "2022-02-03",
+          "form": "10-K",
+          "company_name": "Meta Platforms Inc.",
+          "ticker": "META",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001326801-21-000014",
+          "filing_date": "2021-01-28",
+          "form": "10-K",
+          "company_name": "Meta Platforms Inc.",
+          "ticker": "META",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        },
+        {
+          "accession_number": "0001326801-20-000013",
+          "filing_date": "2020-01-30",
+          "form": "10-K",
+          "company_name": "Meta Platforms Inc.",
+          "ticker": "META",
+          "file_number": null,
+          "text_downloaded": true,
+          "xbrl_statements_saved": [
+            "balance_sheet",
+            "income_statement",
+            "operations_statement",
+            "cash_flow_statement",
+            "comprehensive_income",
+            "stockholders_equity"
+          ]
+        }
+      ]
+    }
+  },
+  "filings_metadata": [
+    {
+      "accession_number": "0000320193-24-000123",
+      "filing_date": "2024-11-01",
+      "form": "10-K",
+      "company_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0000320193-23-000106",
+      "filing_date": "2023-11-03",
+      "form": "10-K",
+      "company_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0000320193-22-000108",
+      "filing_date": "2022-10-28",
+      "form": "10-K",
+      "company_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0000320193-21-000105",
+      "filing_date": "2021-10-29",
+      "form": "10-K",
+      "company_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0000320193-20-000096",
+      "filing_date": "2020-10-30",
+      "form": "10-K",
+      "company_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0000950170-24-087843",
+      "filing_date": "2024-07-30",
+      "form": "10-K",
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0000950170-23-035122",
+      "filing_date": "2023-07-27",
+      "form": "10-K",
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001564590-22-026876",
+      "filing_date": "2022-07-28",
+      "form": "10-K",
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001564590-21-039151",
+      "filing_date": "2021-07-29",
+      "form": "10-K",
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001564590-20-034944",
+      "filing_date": "2020-07-30",
+      "form": "10-K",
+      "company_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001652044-25-000014",
+      "filing_date": "2025-02-05",
+      "form": "10-K",
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001652044-24-000022",
+      "filing_date": "2024-01-31",
+      "form": "10-K",
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001652044-23-000016",
+      "filing_date": "2023-02-03",
+      "form": "10-K",
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001652044-22-000019",
+      "filing_date": "2022-02-02",
+      "form": "10-K",
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001652044-21-000010",
+      "filing_date": "2021-02-03",
+      "form": "10-K",
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001652044-20-000008",
+      "filing_date": "2020-02-04",
+      "form": "10-K",
+      "company_name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001018724-25-000004",
+      "filing_date": "2025-02-07",
+      "form": "10-K",
+      "company_name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001018724-24-000008",
+      "filing_date": "2024-02-02",
+      "form": "10-K",
+      "company_name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001018724-23-000004",
+      "filing_date": "2023-02-03",
+      "form": "10-K",
+      "company_name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001018724-22-000005",
+      "filing_date": "2022-02-04",
+      "form": "10-K",
+      "company_name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001018724-21-000004",
+      "filing_date": "2021-02-03",
+      "form": "10-K",
+      "company_name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001018724-20-000004",
+      "filing_date": "2020-01-31",
+      "form": "10-K",
+      "company_name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001045810-25-000023",
+      "filing_date": "2025-02-26",
+      "form": "10-K",
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001045810-24-000029",
+      "filing_date": "2024-02-21",
+      "form": "10-K",
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001045810-23-000017",
+      "filing_date": "2023-02-24",
+      "form": "10-K",
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001045810-22-000036",
+      "filing_date": "2022-03-18",
+      "form": "10-K",
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001045810-21-000010",
+      "filing_date": "2021-02-26",
+      "form": "10-K",
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001045810-20-000010",
+      "filing_date": "2020-02-20",
+      "form": "10-K",
+      "company_name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001326801-25-000017",
+      "filing_date": "2025-01-30",
+      "form": "10-K",
+      "company_name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001326801-24-000012",
+      "filing_date": "2024-02-02",
+      "form": "10-K",
+      "company_name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001326801-23-000013",
+      "filing_date": "2023-02-02",
+      "form": "10-K",
+      "company_name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001326801-22-000018",
+      "filing_date": "2022-02-03",
+      "form": "10-K",
+      "company_name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001326801-21-000014",
+      "filing_date": "2021-01-28",
+      "form": "10-K",
+      "company_name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    },
+    {
+      "accession_number": "0001326801-20-000013",
+      "filing_date": "2020-01-30",
+      "form": "10-K",
+      "company_name": "Meta Platforms Inc.",
+      "ticker": "META",
+      "file_number": null,
+      "text_downloaded": true,
+      "xbrl_statements_saved": [
+        "balance_sheet",
+        "income_statement",
+        "operations_statement",
+        "cash_flow_statement",
+        "comprehensive_income",
+        "stockholders_equity"
+      ]
+    }
+  ],
+  "xbrl_files": {
+    "0000320193-24-000123": {
+      "balance_sheet": "./data/xbrl\\AAPL_0000320193-24-000123\\AAPL_0000320193-24-000123_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AAPL_0000320193-24-000123\\AAPL_0000320193-24-000123_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AAPL_0000320193-24-000123\\AAPL_0000320193-24-000123_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AAPL_0000320193-24-000123\\AAPL_0000320193-24-000123_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AAPL_0000320193-24-000123\\AAPL_0000320193-24-000123_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AAPL_0000320193-24-000123\\AAPL_0000320193-24-000123_stockholders_equity.csv"
+    },
+    "0000320193-23-000106": {
+      "balance_sheet": "./data/xbrl\\AAPL_0000320193-23-000106\\AAPL_0000320193-23-000106_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AAPL_0000320193-23-000106\\AAPL_0000320193-23-000106_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AAPL_0000320193-23-000106\\AAPL_0000320193-23-000106_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AAPL_0000320193-23-000106\\AAPL_0000320193-23-000106_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AAPL_0000320193-23-000106\\AAPL_0000320193-23-000106_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AAPL_0000320193-23-000106\\AAPL_0000320193-23-000106_stockholders_equity.csv"
+    },
+    "0000320193-22-000108": {
+      "balance_sheet": "./data/xbrl\\AAPL_0000320193-22-000108\\AAPL_0000320193-22-000108_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AAPL_0000320193-22-000108\\AAPL_0000320193-22-000108_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AAPL_0000320193-22-000108\\AAPL_0000320193-22-000108_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AAPL_0000320193-22-000108\\AAPL_0000320193-22-000108_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AAPL_0000320193-22-000108\\AAPL_0000320193-22-000108_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AAPL_0000320193-22-000108\\AAPL_0000320193-22-000108_stockholders_equity.csv"
+    },
+    "0000320193-21-000105": {
+      "balance_sheet": "./data/xbrl\\AAPL_0000320193-21-000105\\AAPL_0000320193-21-000105_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AAPL_0000320193-21-000105\\AAPL_0000320193-21-000105_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AAPL_0000320193-21-000105\\AAPL_0000320193-21-000105_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AAPL_0000320193-21-000105\\AAPL_0000320193-21-000105_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AAPL_0000320193-21-000105\\AAPL_0000320193-21-000105_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AAPL_0000320193-21-000105\\AAPL_0000320193-21-000105_stockholders_equity.csv"
+    },
+    "0000320193-20-000096": {
+      "balance_sheet": "./data/xbrl\\AAPL_0000320193-20-000096\\AAPL_0000320193-20-000096_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AAPL_0000320193-20-000096\\AAPL_0000320193-20-000096_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AAPL_0000320193-20-000096\\AAPL_0000320193-20-000096_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AAPL_0000320193-20-000096\\AAPL_0000320193-20-000096_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AAPL_0000320193-20-000096\\AAPL_0000320193-20-000096_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AAPL_0000320193-20-000096\\AAPL_0000320193-20-000096_stockholders_equity.csv"
+    },
+    "0000950170-24-087843": {
+      "balance_sheet": "./data/xbrl\\MSFT_0000950170-24-087843\\MSFT_0000950170-24-087843_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\MSFT_0000950170-24-087843\\MSFT_0000950170-24-087843_income_statement.csv",
+      "operations_statement": "./data/xbrl\\MSFT_0000950170-24-087843\\MSFT_0000950170-24-087843_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\MSFT_0000950170-24-087843\\MSFT_0000950170-24-087843_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\MSFT_0000950170-24-087843\\MSFT_0000950170-24-087843_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\MSFT_0000950170-24-087843\\MSFT_0000950170-24-087843_stockholders_equity.csv"
+    },
+    "0000950170-23-035122": {
+      "balance_sheet": "./data/xbrl\\MSFT_0000950170-23-035122\\MSFT_0000950170-23-035122_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\MSFT_0000950170-23-035122\\MSFT_0000950170-23-035122_income_statement.csv",
+      "operations_statement": "./data/xbrl\\MSFT_0000950170-23-035122\\MSFT_0000950170-23-035122_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\MSFT_0000950170-23-035122\\MSFT_0000950170-23-035122_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\MSFT_0000950170-23-035122\\MSFT_0000950170-23-035122_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\MSFT_0000950170-23-035122\\MSFT_0000950170-23-035122_stockholders_equity.csv"
+    },
+    "0001564590-22-026876": {
+      "balance_sheet": "./data/xbrl\\MSFT_0001564590-22-026876\\MSFT_0001564590-22-026876_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\MSFT_0001564590-22-026876\\MSFT_0001564590-22-026876_income_statement.csv",
+      "operations_statement": "./data/xbrl\\MSFT_0001564590-22-026876\\MSFT_0001564590-22-026876_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\MSFT_0001564590-22-026876\\MSFT_0001564590-22-026876_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\MSFT_0001564590-22-026876\\MSFT_0001564590-22-026876_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\MSFT_0001564590-22-026876\\MSFT_0001564590-22-026876_stockholders_equity.csv"
+    },
+    "0001564590-21-039151": {
+      "balance_sheet": "./data/xbrl\\MSFT_0001564590-21-039151\\MSFT_0001564590-21-039151_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\MSFT_0001564590-21-039151\\MSFT_0001564590-21-039151_income_statement.csv",
+      "operations_statement": "./data/xbrl\\MSFT_0001564590-21-039151\\MSFT_0001564590-21-039151_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\MSFT_0001564590-21-039151\\MSFT_0001564590-21-039151_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\MSFT_0001564590-21-039151\\MSFT_0001564590-21-039151_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\MSFT_0001564590-21-039151\\MSFT_0001564590-21-039151_stockholders_equity.csv"
+    },
+    "0001564590-20-034944": {
+      "balance_sheet": "./data/xbrl\\MSFT_0001564590-20-034944\\MSFT_0001564590-20-034944_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\MSFT_0001564590-20-034944\\MSFT_0001564590-20-034944_income_statement.csv",
+      "operations_statement": "./data/xbrl\\MSFT_0001564590-20-034944\\MSFT_0001564590-20-034944_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\MSFT_0001564590-20-034944\\MSFT_0001564590-20-034944_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\MSFT_0001564590-20-034944\\MSFT_0001564590-20-034944_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\MSFT_0001564590-20-034944\\MSFT_0001564590-20-034944_stockholders_equity.csv"
+    },
+    "0001652044-25-000014": {
+      "balance_sheet": "./data/xbrl\\GOOGL_0001652044-25-000014\\GOOGL_0001652044-25-000014_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\GOOGL_0001652044-25-000014\\GOOGL_0001652044-25-000014_income_statement.csv",
+      "operations_statement": "./data/xbrl\\GOOGL_0001652044-25-000014\\GOOGL_0001652044-25-000014_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\GOOGL_0001652044-25-000014\\GOOGL_0001652044-25-000014_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\GOOGL_0001652044-25-000014\\GOOGL_0001652044-25-000014_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\GOOGL_0001652044-25-000014\\GOOGL_0001652044-25-000014_stockholders_equity.csv"
+    },
+    "0001652044-24-000022": {
+      "balance_sheet": "./data/xbrl\\GOOGL_0001652044-24-000022\\GOOGL_0001652044-24-000022_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\GOOGL_0001652044-24-000022\\GOOGL_0001652044-24-000022_income_statement.csv",
+      "operations_statement": "./data/xbrl\\GOOGL_0001652044-24-000022\\GOOGL_0001652044-24-000022_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\GOOGL_0001652044-24-000022\\GOOGL_0001652044-24-000022_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\GOOGL_0001652044-24-000022\\GOOGL_0001652044-24-000022_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\GOOGL_0001652044-24-000022\\GOOGL_0001652044-24-000022_stockholders_equity.csv"
+    },
+    "0001652044-23-000016": {
+      "balance_sheet": "./data/xbrl\\GOOGL_0001652044-23-000016\\GOOGL_0001652044-23-000016_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\GOOGL_0001652044-23-000016\\GOOGL_0001652044-23-000016_income_statement.csv",
+      "operations_statement": "./data/xbrl\\GOOGL_0001652044-23-000016\\GOOGL_0001652044-23-000016_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\GOOGL_0001652044-23-000016\\GOOGL_0001652044-23-000016_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\GOOGL_0001652044-23-000016\\GOOGL_0001652044-23-000016_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\GOOGL_0001652044-23-000016\\GOOGL_0001652044-23-000016_stockholders_equity.csv"
+    },
+    "0001652044-22-000019": {
+      "balance_sheet": "./data/xbrl\\GOOGL_0001652044-22-000019\\GOOGL_0001652044-22-000019_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\GOOGL_0001652044-22-000019\\GOOGL_0001652044-22-000019_income_statement.csv",
+      "operations_statement": "./data/xbrl\\GOOGL_0001652044-22-000019\\GOOGL_0001652044-22-000019_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\GOOGL_0001652044-22-000019\\GOOGL_0001652044-22-000019_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\GOOGL_0001652044-22-000019\\GOOGL_0001652044-22-000019_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\GOOGL_0001652044-22-000019\\GOOGL_0001652044-22-000019_stockholders_equity.csv"
+    },
+    "0001652044-21-000010": {
+      "balance_sheet": "./data/xbrl\\GOOGL_0001652044-21-000010\\GOOGL_0001652044-21-000010_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\GOOGL_0001652044-21-000010\\GOOGL_0001652044-21-000010_income_statement.csv",
+      "operations_statement": "./data/xbrl\\GOOGL_0001652044-21-000010\\GOOGL_0001652044-21-000010_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\GOOGL_0001652044-21-000010\\GOOGL_0001652044-21-000010_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\GOOGL_0001652044-21-000010\\GOOGL_0001652044-21-000010_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\GOOGL_0001652044-21-000010\\GOOGL_0001652044-21-000010_stockholders_equity.csv"
+    },
+    "0001652044-20-000008": {
+      "balance_sheet": "./data/xbrl\\GOOGL_0001652044-20-000008\\GOOGL_0001652044-20-000008_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\GOOGL_0001652044-20-000008\\GOOGL_0001652044-20-000008_income_statement.csv",
+      "operations_statement": "./data/xbrl\\GOOGL_0001652044-20-000008\\GOOGL_0001652044-20-000008_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\GOOGL_0001652044-20-000008\\GOOGL_0001652044-20-000008_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\GOOGL_0001652044-20-000008\\GOOGL_0001652044-20-000008_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\GOOGL_0001652044-20-000008\\GOOGL_0001652044-20-000008_stockholders_equity.csv"
+    },
+    "0001018724-25-000004": {
+      "balance_sheet": "./data/xbrl\\AMZN_0001018724-25-000004\\AMZN_0001018724-25-000004_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AMZN_0001018724-25-000004\\AMZN_0001018724-25-000004_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AMZN_0001018724-25-000004\\AMZN_0001018724-25-000004_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AMZN_0001018724-25-000004\\AMZN_0001018724-25-000004_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AMZN_0001018724-25-000004\\AMZN_0001018724-25-000004_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AMZN_0001018724-25-000004\\AMZN_0001018724-25-000004_stockholders_equity.csv"
+    },
+    "0001018724-24-000008": {
+      "balance_sheet": "./data/xbrl\\AMZN_0001018724-24-000008\\AMZN_0001018724-24-000008_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AMZN_0001018724-24-000008\\AMZN_0001018724-24-000008_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AMZN_0001018724-24-000008\\AMZN_0001018724-24-000008_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AMZN_0001018724-24-000008\\AMZN_0001018724-24-000008_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AMZN_0001018724-24-000008\\AMZN_0001018724-24-000008_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AMZN_0001018724-24-000008\\AMZN_0001018724-24-000008_stockholders_equity.csv"
+    },
+    "0001018724-23-000004": {
+      "balance_sheet": "./data/xbrl\\AMZN_0001018724-23-000004\\AMZN_0001018724-23-000004_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AMZN_0001018724-23-000004\\AMZN_0001018724-23-000004_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AMZN_0001018724-23-000004\\AMZN_0001018724-23-000004_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AMZN_0001018724-23-000004\\AMZN_0001018724-23-000004_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AMZN_0001018724-23-000004\\AMZN_0001018724-23-000004_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AMZN_0001018724-23-000004\\AMZN_0001018724-23-000004_stockholders_equity.csv"
+    },
+    "0001018724-22-000005": {
+      "balance_sheet": "./data/xbrl\\AMZN_0001018724-22-000005\\AMZN_0001018724-22-000005_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AMZN_0001018724-22-000005\\AMZN_0001018724-22-000005_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AMZN_0001018724-22-000005\\AMZN_0001018724-22-000005_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AMZN_0001018724-22-000005\\AMZN_0001018724-22-000005_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AMZN_0001018724-22-000005\\AMZN_0001018724-22-000005_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AMZN_0001018724-22-000005\\AMZN_0001018724-22-000005_stockholders_equity.csv"
+    },
+    "0001018724-21-000004": {
+      "balance_sheet": "./data/xbrl\\AMZN_0001018724-21-000004\\AMZN_0001018724-21-000004_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AMZN_0001018724-21-000004\\AMZN_0001018724-21-000004_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AMZN_0001018724-21-000004\\AMZN_0001018724-21-000004_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AMZN_0001018724-21-000004\\AMZN_0001018724-21-000004_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AMZN_0001018724-21-000004\\AMZN_0001018724-21-000004_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AMZN_0001018724-21-000004\\AMZN_0001018724-21-000004_stockholders_equity.csv"
+    },
+    "0001018724-20-000004": {
+      "balance_sheet": "./data/xbrl\\AMZN_0001018724-20-000004\\AMZN_0001018724-20-000004_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\AMZN_0001018724-20-000004\\AMZN_0001018724-20-000004_income_statement.csv",
+      "operations_statement": "./data/xbrl\\AMZN_0001018724-20-000004\\AMZN_0001018724-20-000004_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\AMZN_0001018724-20-000004\\AMZN_0001018724-20-000004_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\AMZN_0001018724-20-000004\\AMZN_0001018724-20-000004_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\AMZN_0001018724-20-000004\\AMZN_0001018724-20-000004_stockholders_equity.csv"
+    },
+    "0001045810-25-000023": {
+      "balance_sheet": "./data/xbrl\\NVDA_0001045810-25-000023\\NVDA_0001045810-25-000023_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\NVDA_0001045810-25-000023\\NVDA_0001045810-25-000023_income_statement.csv",
+      "operations_statement": "./data/xbrl\\NVDA_0001045810-25-000023\\NVDA_0001045810-25-000023_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\NVDA_0001045810-25-000023\\NVDA_0001045810-25-000023_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\NVDA_0001045810-25-000023\\NVDA_0001045810-25-000023_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\NVDA_0001045810-25-000023\\NVDA_0001045810-25-000023_stockholders_equity.csv"
+    },
+    "0001045810-24-000029": {
+      "balance_sheet": "./data/xbrl\\NVDA_0001045810-24-000029\\NVDA_0001045810-24-000029_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\NVDA_0001045810-24-000029\\NVDA_0001045810-24-000029_income_statement.csv",
+      "operations_statement": "./data/xbrl\\NVDA_0001045810-24-000029\\NVDA_0001045810-24-000029_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\NVDA_0001045810-24-000029\\NVDA_0001045810-24-000029_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\NVDA_0001045810-24-000029\\NVDA_0001045810-24-000029_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\NVDA_0001045810-24-000029\\NVDA_0001045810-24-000029_stockholders_equity.csv"
+    },
+    "0001045810-23-000017": {
+      "balance_sheet": "./data/xbrl\\NVDA_0001045810-23-000017\\NVDA_0001045810-23-000017_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\NVDA_0001045810-23-000017\\NVDA_0001045810-23-000017_income_statement.csv",
+      "operations_statement": "./data/xbrl\\NVDA_0001045810-23-000017\\NVDA_0001045810-23-000017_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\NVDA_0001045810-23-000017\\NVDA_0001045810-23-000017_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\NVDA_0001045810-23-000017\\NVDA_0001045810-23-000017_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\NVDA_0001045810-23-000017\\NVDA_0001045810-23-000017_stockholders_equity.csv"
+    },
+    "0001045810-22-000036": {
+      "balance_sheet": "./data/xbrl\\NVDA_0001045810-22-000036\\NVDA_0001045810-22-000036_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\NVDA_0001045810-22-000036\\NVDA_0001045810-22-000036_income_statement.csv",
+      "operations_statement": "./data/xbrl\\NVDA_0001045810-22-000036\\NVDA_0001045810-22-000036_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\NVDA_0001045810-22-000036\\NVDA_0001045810-22-000036_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\NVDA_0001045810-22-000036\\NVDA_0001045810-22-000036_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\NVDA_0001045810-22-000036\\NVDA_0001045810-22-000036_stockholders_equity.csv"
+    },
+    "0001045810-21-000010": {
+      "balance_sheet": "./data/xbrl\\NVDA_0001045810-21-000010\\NVDA_0001045810-21-000010_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\NVDA_0001045810-21-000010\\NVDA_0001045810-21-000010_income_statement.csv",
+      "operations_statement": "./data/xbrl\\NVDA_0001045810-21-000010\\NVDA_0001045810-21-000010_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\NVDA_0001045810-21-000010\\NVDA_0001045810-21-000010_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\NVDA_0001045810-21-000010\\NVDA_0001045810-21-000010_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\NVDA_0001045810-21-000010\\NVDA_0001045810-21-000010_stockholders_equity.csv"
+    },
+    "0001045810-20-000010": {
+      "balance_sheet": "./data/xbrl\\NVDA_0001045810-20-000010\\NVDA_0001045810-20-000010_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\NVDA_0001045810-20-000010\\NVDA_0001045810-20-000010_income_statement.csv",
+      "operations_statement": "./data/xbrl\\NVDA_0001045810-20-000010\\NVDA_0001045810-20-000010_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\NVDA_0001045810-20-000010\\NVDA_0001045810-20-000010_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\NVDA_0001045810-20-000010\\NVDA_0001045810-20-000010_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\NVDA_0001045810-20-000010\\NVDA_0001045810-20-000010_stockholders_equity.csv"
+    },
+    "0001326801-25-000017": {
+      "balance_sheet": "./data/xbrl\\META_0001326801-25-000017\\META_0001326801-25-000017_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\META_0001326801-25-000017\\META_0001326801-25-000017_income_statement.csv",
+      "operations_statement": "./data/xbrl\\META_0001326801-25-000017\\META_0001326801-25-000017_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\META_0001326801-25-000017\\META_0001326801-25-000017_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\META_0001326801-25-000017\\META_0001326801-25-000017_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\META_0001326801-25-000017\\META_0001326801-25-000017_stockholders_equity.csv"
+    },
+    "0001326801-24-000012": {
+      "balance_sheet": "./data/xbrl\\META_0001326801-24-000012\\META_0001326801-24-000012_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\META_0001326801-24-000012\\META_0001326801-24-000012_income_statement.csv",
+      "operations_statement": "./data/xbrl\\META_0001326801-24-000012\\META_0001326801-24-000012_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\META_0001326801-24-000012\\META_0001326801-24-000012_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\META_0001326801-24-000012\\META_0001326801-24-000012_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\META_0001326801-24-000012\\META_0001326801-24-000012_stockholders_equity.csv"
+    },
+    "0001326801-23-000013": {
+      "balance_sheet": "./data/xbrl\\META_0001326801-23-000013\\META_0001326801-23-000013_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\META_0001326801-23-000013\\META_0001326801-23-000013_income_statement.csv",
+      "operations_statement": "./data/xbrl\\META_0001326801-23-000013\\META_0001326801-23-000013_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\META_0001326801-23-000013\\META_0001326801-23-000013_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\META_0001326801-23-000013\\META_0001326801-23-000013_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\META_0001326801-23-000013\\META_0001326801-23-000013_stockholders_equity.csv"
+    },
+    "0001326801-22-000018": {
+      "balance_sheet": "./data/xbrl\\META_0001326801-22-000018\\META_0001326801-22-000018_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\META_0001326801-22-000018\\META_0001326801-22-000018_income_statement.csv",
+      "operations_statement": "./data/xbrl\\META_0001326801-22-000018\\META_0001326801-22-000018_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\META_0001326801-22-000018\\META_0001326801-22-000018_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\META_0001326801-22-000018\\META_0001326801-22-000018_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\META_0001326801-22-000018\\META_0001326801-22-000018_stockholders_equity.csv"
+    },
+    "0001326801-21-000014": {
+      "balance_sheet": "./data/xbrl\\META_0001326801-21-000014\\META_0001326801-21-000014_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\META_0001326801-21-000014\\META_0001326801-21-000014_income_statement.csv",
+      "operations_statement": "./data/xbrl\\META_0001326801-21-000014\\META_0001326801-21-000014_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\META_0001326801-21-000014\\META_0001326801-21-000014_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\META_0001326801-21-000014\\META_0001326801-21-000014_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\META_0001326801-21-000014\\META_0001326801-21-000014_stockholders_equity.csv"
+    },
+    "0001326801-20-000013": {
+      "balance_sheet": "./data/xbrl\\META_0001326801-20-000013\\META_0001326801-20-000013_balance_sheet.csv",
+      "income_statement": "./data/xbrl\\META_0001326801-20-000013\\META_0001326801-20-000013_income_statement.csv",
+      "operations_statement": "./data/xbrl\\META_0001326801-20-000013\\META_0001326801-20-000013_operations_statement.csv",
+      "cash_flow_statement": "./data/xbrl\\META_0001326801-20-000013\\META_0001326801-20-000013_cash_flow_statement.csv",
+      "comprehensive_income": "./data/xbrl\\META_0001326801-20-000013\\META_0001326801-20-000013_comprehensive_income.csv",
+      "stockholders_equity": "./data/xbrl\\META_0001326801-20-000013\\META_0001326801-20-000013_stockholders_equity.csv"
+    }
+  }
+}
