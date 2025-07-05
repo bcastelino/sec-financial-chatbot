@@ -1,0 +1,12 @@
+concept,label,2021-01-31,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,4332000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParentAbstract,Available-for-sale debt securities:,,1,False,False
+us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,Net unrealized gain,2000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,Net Income,-2000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent,Net change in unrealized gain,0.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTaxParentAbstract,Cash flow hedges:,,1,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax,Net unrealized gain,9000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax,Net Income,9000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax,Net change in unrealized gain (loss),18000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,"Other comprehensive income, net of tax",18000000.0,1,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Total comprehensive income,4350000000.0,1,False,False

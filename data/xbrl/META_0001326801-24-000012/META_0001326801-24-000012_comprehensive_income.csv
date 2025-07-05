@@ -1,0 +1,6 @@
+concept,label,2023-12-31,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,39098000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,Other comprehensive income (loss):,,1,False,False
+us-gaap_OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,"Change in foreign currency translation adjustment, net of tax",618000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,"Change in unrealized gain (loss) on available-for-sale investments and other, net of tax",757000000.0,2,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Comprehensive income,40473000000.0,1,False,False

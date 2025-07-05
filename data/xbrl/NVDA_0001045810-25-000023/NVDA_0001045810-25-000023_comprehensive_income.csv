@@ -1,0 +1,13 @@
+concept,label,2025-01-26,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,72880000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,"Other comprehensive income (loss), net of tax",,1,False,False
+us-gaap_OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentBeforeReclassificationAdjustmentsNetOfTaxAbstract,Available-for-sale securities:,,2,False,False
+us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,Net change in unrealized gain (loss),1000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,Net Income,-0.0,3,False,False
+us-gaap_OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent,Net change in unrealized gain (loss),1000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesTaxPortionAttributableToParentAbstract,Cash flow hedges:,,1,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax,Net change in unrealized gain,21000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax,Net Income,-21000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax,Net change in unrealized loss,0.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,"Other comprehensive income (loss), net of tax",1000000.0,1,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Total comprehensive income,72881000000.0,1,False,False

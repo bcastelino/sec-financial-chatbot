@@ -1,0 +1,17 @@
+concept,label,2024-12-31,level,abstract,dimension
+us-gaap_StatementLineItems,Statement,,2,False,False
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],,3,False,False
+us-gaap_CommonStockSharesOutstanding,Common Stock Shares Outstanding,,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_StockIssuedDuringPeriodSharesNewIssues,Issuance of common stock (in shares),65000000.0,4,False,False
+us-gaap_SharesPaidForTaxWithholdingForShareBasedCompensation,Shares withheld related to net share settlement (in shares),27000000.0,4,False,False
+us-gaap_AdjustmentsRelatedToTaxWithholdingForShareBasedCompensation,Shares withheld related to net share settlement,13770000000.0,4,False,False
+us-gaap_AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,Share-based compensation,16690000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodShares,Share repurchases (in shares),65000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodValue,Share repurchases,29754000000.0,4,False,False
+us-gaap_DividendsCommonStock,Dividends and dividend equivalents declared,5121000000.0,4,False,False
+us-gaap_StockholdersEquityOther,Other,-6000000.0,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,Other comprehensive income (loss),-942000000.0,4,False,False
+us-gaap_NetIncomeLoss,Net Income,62360000000.0,4,False,False
+us-gaap_CommonStockSharesOutstanding,Common Stock Shares Outstanding,,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False

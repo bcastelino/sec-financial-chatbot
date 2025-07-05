@@ -1,0 +1,15 @@
+concept,label,2023-12-31,level,abstract,dimension
+us-gaap_StatementLineItems,Statement,,2,False,False
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],,3,False,False
+us-gaap_CommonStockSharesOutstanding,Common Stock Shares Outstanding,,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_StockIssuedDuringPeriodSharesNewIssues,Issuance of common stock (in shares),65000000.0,4,False,False
+us-gaap_SharesPaidForTaxWithholdingForShareBasedCompensation,Shares withheld related to net share settlement (in shares),26000000.0,4,False,False
+us-gaap_AdjustmentsRelatedToTaxWithholdingForShareBasedCompensation,Shares withheld related to net share settlement,7012000000.0,4,False,False
+us-gaap_AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,Share-based compensation,14027000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodShares,Share repurchases (in shares),92000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodValue,Share repurchases,20033000000.0,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,Other comprehensive income (loss),1375000000.0,4,False,False
+us-gaap_NetIncomeLoss,Net Income,39098000000.0,4,False,False
+us-gaap_CommonStockSharesOutstanding,Common Stock Shares Outstanding,,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False

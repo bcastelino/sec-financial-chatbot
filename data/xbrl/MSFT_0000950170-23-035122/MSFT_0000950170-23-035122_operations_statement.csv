@@ -1,0 +1,40 @@
+concept,label,2023-06-30,2022-06-30,level,abstract,dimension
+us-gaap_AssetsAbstract,Assets,,,1,False,False
+us-gaap_AssetsCurrentAbstract,Current assets:,,,2,False,False
+us-gaap_CashAndCashEquivalentsAtCarryingValue,Cash and Cash Equivalents,34704000000.0,13931000000.0,3,False,False
+us-gaap_ShortTermInvestments,Short-term investments,76558000000.0,90826000000.0,3,False,False
+us-gaap_CashCashEquivalentsAndShortTermInvestments,Cash and Cash Equivalents,111262000000.0,104757000000.0,3,False,False
+us-gaap_AccountsReceivableNetCurrent,Accounts Receivable,48688000000.0,44261000000.0,3,False,False
+us-gaap_InventoryNet,Inventory,2500000000.0,3742000000.0,3,False,False
+us-gaap_OtherAssetsCurrent,Other Assets,21807000000.0,16924000000.0,3,False,False
+us-gaap_AssetsCurrent,Total Current Assets,184257000000.0,169684000000.0,3,False,False
+us-gaap_PropertyPlantAndEquipmentNet,"Property, Plant and Equipment",95641000000.0,74398000000.0,2,False,False
+us-gaap_OperatingLeaseRightOfUseAsset,Operating lease right-of-use assets,14346000000.0,13148000000.0,2,False,False
+us-gaap_LongTermInvestments,Long-Term Investments,9879000000.0,6891000000.0,2,False,False
+us-gaap_Goodwill,Goodwill,67886000000.0,67524000000.0,2,False,False
+us-gaap_FiniteLivedIntangibleAssetsNet,Intangible Assets,9366000000.0,11298000000.0,2,False,False
+us-gaap_OtherAssetsNoncurrent,Other Assets,30601000000.0,21897000000.0,2,False,False
+us-gaap_Assets,Total Assets,411976000000.0,364840000000.0,2,False,False
+us-gaap_LiabilitiesAndStockholdersEquityAbstract,Liabilities and stockholders’ equity,,,1,False,False
+us-gaap_LiabilitiesCurrentAbstract,Current liabilities:,,,2,False,False
+us-gaap_AccountsPayableCurrent,Accounts Payable,18095000000.0,19000000000.0,3,False,False
+us-gaap_LongTermDebtCurrent,Short-Term Debt,5247000000.0,2749000000.0,3,False,False
+us-gaap_EmployeeRelatedLiabilitiesCurrent,Accrued Liabilities,11009000000.0,10661000000.0,3,False,False
+us-gaap_AccruedIncomeTaxesCurrent,Short-term income taxes,4152000000.0,4067000000.0,3,False,False
+us-gaap_ContractWithCustomerLiabilityCurrent,Revenue,50901000000.0,45538000000.0,3,False,False
+us-gaap_OtherLiabilitiesCurrent,Other Liabilities,14745000000.0,13067000000.0,3,False,False
+us-gaap_LiabilitiesCurrent,Total Current Liabilities,104149000000.0,95082000000.0,3,False,False
+us-gaap_LongTermDebtNoncurrent,Long-Term Debt,41990000000.0,47032000000.0,2,False,False
+us-gaap_AccruedIncomeTaxesNoncurrent,Long-term income taxes,25560000000.0,26069000000.0,2,False,False
+us-gaap_ContractWithCustomerLiabilityNoncurrent,Revenue,2912000000.0,2870000000.0,2,False,False
+us-gaap_DeferredIncomeTaxLiabilitiesNet,Deferred income taxes,-433000000.0,-230000000.0,2,False,False
+us-gaap_OperatingLeaseLiabilityNoncurrent,Operating lease liabilities,12728000000.0,11489000000.0,2,False,False
+us-gaap_OtherLiabilitiesNoncurrent,Other Liabilities,17981000000.0,15526000000.0,2,False,False
+us-gaap_Liabilities,Total Liabilities,205753000000.0,198298000000.0,2,False,False
+us-gaap_CommitmentsAndContingencies,Commitments and contingencies,,,2,False,False
+us-gaap_StockholdersEquityAbstract,Total Stockholders' Equity,,,2,False,False
+us-gaap_CommonStocksIncludingAdditionalPaidInCapital,Common Stock,93718000000.0,86939000000.0,3,False,False
+us-gaap_RetainedEarningsAccumulatedDeficit,Retained Earnings,118848000000.0,84281000000.0,3,False,False
+us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,Accumulated Other Comprehensive Income/Loss,-6343000000.0,-4678000000.0,3,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,206223000000.0,166542000000.0,3,False,False
+us-gaap_LiabilitiesAndStockholdersEquity,Total Liabilities and Stockholders' Equity,411976000000.0,364840000000.0,2,False,False

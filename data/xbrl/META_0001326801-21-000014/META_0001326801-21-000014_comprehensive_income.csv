@@ -1,0 +1,5 @@
+concept,label,2020-12-31,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,29146000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,Other comprehensive income (loss):,,1,False,False
+us-gaap_OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,"Change in foreign currency translation adjustment, net of tax",1056000000.0,2,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Comprehensive income,30562000000.0,1,False,False

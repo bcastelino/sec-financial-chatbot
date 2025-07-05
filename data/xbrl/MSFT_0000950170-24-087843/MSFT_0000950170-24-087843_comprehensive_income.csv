@@ -1,0 +1,8 @@
+concept,label,2024-06-30,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,88136000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,"Other comprehensive income (loss), net of tax:",,1,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax,Net change related to derivatives,24000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,Net change related to investments,957000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,Translation adjustments and other,-228000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,Other comprehensive income (loss),753000000.0,2,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Comprehensive income,88889000000.0,1,False,False
