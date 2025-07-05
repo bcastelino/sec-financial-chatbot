@@ -7,6 +7,21 @@
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about SEC 10-K filings for major tech companies. The system processes and stores SEC filings (10-K, text and XBRL) and provides intelligent, well-reasoned responses using OpenRouter's NVIDIA Llama 3.3 Nemotron Super 49B model.
 
 ---
+## 🖼️ Extension Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="/screenshots/sec-chatbot-main.png" alt="ChatBot UI" width="500"/><br/>
+      <strong>SEC UI</strong>
+    </td>
+    <td align="center">
+      <img src="/screenshots/sec-chatbot-ui.png" alt="ChatRoom" width="500"/><br/>
+      <strong>ChatRoom</strong>
+    </td>    
+  </tr>
+</table>
+---
 
 ## 🚀 Key Features
 
