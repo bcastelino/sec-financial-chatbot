@@ -1,0 +1,14 @@
+concept,label,2021-12-31,level,abstract,dimension
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],,3,False,False
+us-gaap_SharesIssued,Ending Balance (in shares),,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_StockIssuedDuringPeriodSharesNewIssues,Common and capital stock issued (in shares),7225000.0,4,False,False
+us-gaap_StockIssuedDuringPeriodValueNewIssues,Common and capital stock issued,12000000.0,4,False,False
+us-gaap_AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,Stock-based compensation expense,15539000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodShares,Repurchases of capital stock (in shares),20326000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodValue,Repurchases of capital stock,50274000000.0,4,False,False
+us-gaap_NoncontrollingInterestIncreaseFromSaleOfParentEquityInterest,Sale of interest in consolidated entities,310000000.0,4,False,False
+us-gaap_NetIncomeLoss,Net Income,76033000000.0,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,Other comprehensive income (loss),-2256000000.0,4,False,False
+us-gaap_SharesIssued,Ending Balance (in shares),,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False

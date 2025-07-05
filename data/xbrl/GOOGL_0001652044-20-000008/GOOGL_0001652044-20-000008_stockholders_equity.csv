@@ -1,0 +1,15 @@
+concept,label,2019-12-31,level,abstract,dimension
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],,3,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_SharesIssued,Ending Balance (in shares),,4,False,False
+us-gaap_CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,Cumulative effect of accounting change,,4,False,False
+us-gaap_StockIssuedDuringPeriodValueNewIssues,Common and capital stock issued,202000000.0,4,False,False
+us-gaap_StockIssuedDuringPeriodSharesNewIssues,Common and capital stock issued (in shares),8120000.0,4,False,False
+us-gaap_AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,Stock-based compensation expense,10890000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodValue,Repurchases of capital stock,18396000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodShares,Repurchases of capital stock (in shares),15341000.0,4,False,False
+us-gaap_NoncontrollingInterestIncreaseFromSaleOfParentEquityInterest,Sale of interest in consolidated entities,160000000.0,4,False,False
+us-gaap_NetIncomeLoss,Net Income,34343000000.0,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,Other comprehensive income (loss),1104000000.0,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_SharesIssued,Ending Balance (in shares),,4,False,False

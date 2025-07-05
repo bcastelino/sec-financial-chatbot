@@ -1,0 +1,14 @@
+concept,label,2024-12-31,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,100118000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,Other comprehensive income (loss):,,1,False,False
+us-gaap_OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,"Change in foreign currency translation adjustment, net of income tax benefit (expense) of $(134), $63 and $(49)",-1673000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecreaseAbstract,Available-for-sale investments:,,2,False,False
+us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,Change in net unrealized gains (losses),-116000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,Net Income,782000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,"Net change, net of income tax benefit (expense) of $1,056, $(698), and $(190)",666000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeDerivativesQualifyingAsHedgesNetOfTaxPeriodIncreaseDecreaseAbstract,Cash flow hedges:,,2,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax,Change in net unrealized gains (losses),775000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax,Net Income,-166000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax,"Net change, net of income tax benefit (expense) of $110, $2, and $(151)",609000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,Other comprehensive income (loss),-398000000.0,2,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Comprehensive income,99720000000.0,1,False,False

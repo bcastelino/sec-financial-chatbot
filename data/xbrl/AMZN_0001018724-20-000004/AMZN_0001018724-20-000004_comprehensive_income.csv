@@ -1,0 +1,12 @@
+concept,label,2019-12-31,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,11588000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,Other comprehensive income (loss):,,1,False,False
+us-gaap_OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPeriodIncreaseDecreaseAbstract,Net change in foreign currency translation adjustments:,,2,False,False
+us-gaap_OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax,"Foreign currency translation adjustments, net of tax of $5, $6, and $(5)",78000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,Net foreign currency translation adjustments,-30000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecreaseAbstract,Net change in unrealized gains (losses) on available-for-sale debt securities:,,2,False,False
+us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,"Unrealized gains (losses), net of tax of $5, $0, and $(12)",83000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,"Reclassification adjustment for losses (gains) included in “Other income (expense), net,” net of tax of $0, $0, and $0",-4000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,Net unrealized gains (losses) on available-for-sale debt securities,79000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,Total other comprehensive income (loss),49000000.0,2,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Comprehensive income,11637000000.0,1,False,False

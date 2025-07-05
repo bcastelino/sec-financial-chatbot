@@ -1,0 +1,10 @@
+concept,label,level,abstract,dimension
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],3,False,False
+us-gaap_SharesOutstanding,Ending Balance (in shares),4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,4,False,False
+us-gaap_NetIncomeLoss,Net Income,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,Other comprehensive income (loss),4,False,False
+us-gaap_StockIssuedDuringPeriodSharesStockOptionsExercised,Exercise of common stock options (in shares),4,False,False
+us-gaap_StockIssuedDuringPeriodValueEmployeeBenefitPlan,Stock-based compensation and issuance of employee benefit plan stock,4,False,False
+us-gaap_SharesOutstanding,Ending Balance (in shares),4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,4,False,False

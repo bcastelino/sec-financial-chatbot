@@ -1,0 +1,46 @@
+concept,label,2020-12-31,2019-12-31,level,abstract,dimension
+us-gaap_AssetsAbstract,Assets,,,1,False,False
+us-gaap_AssetsCurrentAbstract,Current assets:,,,2,False,False
+us-gaap_CashAndCashEquivalentsAtCarryingValue,Cash and Cash Equivalents,26465000000.0,18498000000.0,3,False,False
+us-gaap_MarketableSecuritiesCurrent,Current Marketable Securities,110229000000.0,101177000000.0,3,False,False
+us-gaap_CashCashEquivalentsAndShortTermInvestments,Cash and Cash Equivalents,136694000000.0,119675000000.0,3,False,False
+us-gaap_AccountsReceivableNetCurrent,Accounts Receivable,30930000000.0,25326000000.0,3,False,False
+us-gaap_IncomeTaxesReceivable,"Income taxes receivable, net",454000000.0,2166000000.0,3,False,False
+us-gaap_InventoryNet,Inventory,728000000.0,999000000.0,3,False,False
+us-gaap_OtherAssetsCurrent,Other Assets,5490000000.0,4412000000.0,3,False,False
+us-gaap_AssetsCurrent,Total Current Assets,174296000000.0,152578000000.0,3,False,False
+us-gaap_OtherLongTermInvestments,Non-marketable investments,20703000000.0,13078000000.0,2,False,False
+us-gaap_DeferredIncomeTaxAssetsNet,Deferred Tax Assets,1084000000.0,721000000.0,2,False,False
+us-gaap_PropertyPlantAndEquipmentNet,"Property, Plant and Equipment",84749000000.0,73646000000.0,2,False,False
+us-gaap_OperatingLeaseRightOfUseAsset,Operating lease assets,12211000000.0,10941000000.0,2,False,False
+us-gaap_IntangibleAssetsNetExcludingGoodwill,Intangible Assets,1445000000.0,1979000000.0,2,False,False
+us-gaap_Goodwill,Goodwill,21175000000.0,20624000000.0,2,False,False
+us-gaap_OtherAssetsNoncurrent,Other Assets,3953000000.0,2342000000.0,2,False,False
+us-gaap_Assets,Total Assets,319616000000.0,275909000000.0,2,False,False
+us-gaap_LiabilitiesAndStockholdersEquityAbstract,Liabilities and Stockholders’ Equity,,,1,False,False
+us-gaap_LiabilitiesCurrentAbstract,Current liabilities:,,,2,False,False
+us-gaap_AccountsPayableCurrent,Accounts Payable,5589000000.0,5561000000.0,3,False,False
+us-gaap_EmployeeRelatedLiabilitiesCurrent,Accrued Liabilities,11086000000.0,8495000000.0,3,False,False
+us-gaap_AccruedLiabilitiesCurrent,Accrued Liabilities,28631000000.0,23067000000.0,3,False,False
+us-gaap_ContractWithCustomerLiabilityCurrent,Revenue,2543000000.0,1908000000.0,3,False,False
+us-gaap_AccruedIncomeTaxesCurrent,"Income taxes payable, net",1485000000.0,274000000.0,3,False,False
+us-gaap_LiabilitiesCurrent,Total Current Liabilities,56834000000.0,45221000000.0,3,False,False
+us-gaap_LongTermDebtAndCapitalLeaseObligations,Long-Term Debt,13932000000.0,4554000000.0,2,False,False
+us-gaap_ContractWithCustomerLiabilityNoncurrent,Revenue,481000000.0,358000000.0,2,False,False
+us-gaap_AccruedIncomeTaxesNoncurrent,"Income taxes payable, non-current",8849000000.0,9885000000.0,2,False,False
+us-gaap_DeferredIncomeTaxLiabilitiesNet,Deferred income taxes,3561000000.0,1701000000.0,2,False,False
+us-gaap_OperatingLeaseLiabilityNoncurrent,Operating lease liabilities,11146000000.0,10214000000.0,2,False,False
+us-gaap_OtherLiabilitiesNoncurrent,Other Liabilities,2269000000.0,2534000000.0,2,False,False
+us-gaap_Liabilities,Total Liabilities,97072000000.0,74467000000.0,2,False,False
+us-gaap_CommitmentsAndContingencies,Commitments and Contingencies (Note 10),,,2,False,False
+us-gaap_StockholdersEquityAbstract,Total Stockholders' Equity,,,2,False,False
+us-gaap_ConvertiblePreferredStockNonredeemableOrRedeemableIssuerOptionValue,"Convertible preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued and outstanding",0.0,0.0,3,False,False
+us-gaap_CommonStocksIncludingAdditionalPaidInCapital,Common Stock,58510000000.0,50552000000.0,3,False,False
+us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,Accumulated Other Comprehensive Income/Loss,633000000.0,-1232000000.0,3,False,False
+us-gaap_RetainedEarningsAccumulatedDeficit,Retained Earnings,163401000000.0,152122000000.0,3,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,222544000000.0,201442000000.0,3,False,False
+us-gaap_LiabilitiesAndStockholdersEquity,Total Liabilities and Stockholders' Equity,319616000000.0,275909000000.0,2,False,False
+us-gaap_PreferredStockParOrStatedValuePerShare,"Convertible preferred stock, par value (in dollars per share)",0.001,0.001,1,False,False
+us-gaap_PreferredStockSharesAuthorized,"Convertible preferred stock, shares authorized (in shares)",100000000.0,100000000.0,1,False,False
+us-gaap_PreferredStockSharesIssued,"Convertible preferred stock, shares issued (in shares)",0.0,0.0,1,False,False
+us-gaap_PreferredStockSharesOutstanding,"Convertible preferred stock, shares outstanding (in shares)",0.0,0.0,1,False,False

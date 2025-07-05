@@ -1,0 +1,11 @@
+concept,label,2023-12-31,level,abstract,dimension
+us-gaap_NetIncomeLoss,Net Income,30425000000.0,1,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecreaseAbstract,Other comprehensive income (loss):,,1,False,False
+us-gaap_OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax,"Foreign currency translation adjustments, net of tax of $47, $100, and $(55)",1027000000.0,2,False,False
+us-gaap_OtherComprehensiveIncomeAvailableforsaleSecuritiesTaxPortionAttributableToParentAbstract,Available-for-sale debt securities:,,2,False,False
+us-gaap_OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,"Change in net unrealized gains (losses), net of tax of $72, $159, and $(110)",366000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,"Less: reclassification adjustment for losses (gains) included in “Other income (expense), net,” net of tax of $13, $0, and $(15)",50000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,Net change,416000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeOtherNetOfTax,"Other, net of tax of $0, $0, and $(1)",4000000.0,3,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,Other comprehensive income (loss),1447000000.0,2,False,False
+us-gaap_ComprehensiveIncomeNetOfTax,Comprehensive income (loss),31872000000.0,1,False,False

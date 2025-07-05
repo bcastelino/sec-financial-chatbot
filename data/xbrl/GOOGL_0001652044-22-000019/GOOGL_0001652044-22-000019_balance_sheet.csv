@@ -1,0 +1,42 @@
+concept,label,2021-12-31,2020-12-31,level,abstract,dimension
+us-gaap_AssetsAbstract,Assets,,,1,False,False
+us-gaap_AssetsCurrentAbstract,Current assets:,,,2,False,False
+us-gaap_CashAndCashEquivalentsAtCarryingValue,Cash and Cash Equivalents,20945000000.0,26465000000.0,3,False,False
+us-gaap_MarketableSecuritiesCurrent,Current Marketable Securities,118704000000.0,110229000000.0,3,False,False
+us-gaap_CashCashEquivalentsAndShortTermInvestments,Cash and Cash Equivalents,139649000000.0,136694000000.0,3,False,False
+us-gaap_AccountsReceivableNetCurrent,Accounts Receivable,39304000000.0,30930000000.0,3,False,False
+us-gaap_IncomeTaxesReceivable,"Income taxes receivable, net",966000000.0,454000000.0,3,False,False
+us-gaap_InventoryNet,Inventory,1170000000.0,728000000.0,3,False,False
+us-gaap_OtherAssetsCurrent,Other Assets,7054000000.0,5490000000.0,3,False,False
+us-gaap_AssetsCurrent,Total Current Assets,188143000000.0,174296000000.0,3,False,False
+us-gaap_OtherLongTermInvestments,Non-marketable securities,29549000000.0,20703000000.0,2,False,False
+us-gaap_DeferredIncomeTaxAssetsNet,Deferred Tax Assets,1284000000.0,1084000000.0,2,False,False
+us-gaap_PropertyPlantAndEquipmentNet,"Property, Plant and Equipment",97599000000.0,84749000000.0,2,False,False
+us-gaap_OperatingLeaseRightOfUseAsset,Operating lease assets,12959000000.0,12211000000.0,2,False,False
+us-gaap_IntangibleAssetsNetExcludingGoodwill,Intangible Assets,1417000000.0,1445000000.0,2,False,False
+us-gaap_Goodwill,Goodwill,22956000000.0,21175000000.0,2,False,False
+us-gaap_OtherAssetsNoncurrent,Other Assets,5361000000.0,3953000000.0,2,False,False
+us-gaap_Assets,Total Assets,359268000000.0,319616000000.0,2,False,False
+us-gaap_LiabilitiesAndStockholdersEquityAbstract,Liabilities and Stockholders’ Equity,,,1,False,False
+us-gaap_LiabilitiesCurrentAbstract,Current liabilities:,,,2,False,False
+us-gaap_AccountsPayableCurrent,Accounts Payable,6037000000.0,5589000000.0,3,False,False
+us-gaap_EmployeeRelatedLiabilitiesCurrent,Accrued Liabilities,13889000000.0,11086000000.0,3,False,False
+us-gaap_AccruedLiabilitiesCurrent,Accrued Liabilities,31236000000.0,28631000000.0,3,False,False
+us-gaap_ContractWithCustomerLiabilityCurrent,Revenue,3288000000.0,2543000000.0,3,False,False
+us-gaap_AccruedIncomeTaxesCurrent,"Income taxes payable, net",808000000.0,1485000000.0,3,False,False
+us-gaap_LiabilitiesCurrent,Total Current Liabilities,64254000000.0,56834000000.0,3,False,False
+us-gaap_LongTermDebtAndCapitalLeaseObligations,Long-Term Debt,14817000000.0,13932000000.0,2,False,False
+us-gaap_ContractWithCustomerLiabilityNoncurrent,Revenue,535000000.0,481000000.0,2,False,False
+us-gaap_AccruedIncomeTaxesNoncurrent,"Income taxes payable, non-current",9176000000.0,8849000000.0,2,False,False
+us-gaap_DeferredIncomeTaxLiabilitiesNet,Deferred income taxes,5257000000.0,3561000000.0,2,False,False
+us-gaap_OperatingLeaseLiabilityNoncurrent,Operating lease liabilities,11389000000.0,11146000000.0,2,False,False
+us-gaap_OtherLiabilitiesNoncurrent,Other Liabilities,2205000000.0,2269000000.0,2,False,False
+us-gaap_Liabilities,Total Liabilities,107633000000.0,97072000000.0,2,False,False
+us-gaap_CommitmentsAndContingencies,Contingencies (Note 10),,,2,False,False
+us-gaap_StockholdersEquityAbstract,Total Stockholders' Equity,,,2,False,False
+us-gaap_ConvertiblePreferredStockNonredeemableOrRedeemableIssuerOptionValue,"Preferred stock, $0.001 par value per share, 100,000 shares authorized; no shares issued and outstanding",0.0,0.0,3,False,False
+us-gaap_CommonStocksIncludingAdditionalPaidInCapital,Common Stock,61774000000.0,58510000000.0,3,False,False
+us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,Accumulated Other Comprehensive Income/Loss,-1623000000.0,633000000.0,3,False,False
+us-gaap_RetainedEarningsAccumulatedDeficit,Retained Earnings,191484000000.0,163401000000.0,3,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,251635000000.0,222544000000.0,3,False,False
+us-gaap_LiabilitiesAndStockholdersEquity,Total Liabilities and Stockholders' Equity,359268000000.0,319616000000.0,2,False,False

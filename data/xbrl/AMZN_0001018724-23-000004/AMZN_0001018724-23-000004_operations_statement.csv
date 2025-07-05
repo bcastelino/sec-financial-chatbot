@@ -1,0 +1,22 @@
+concept,label,2022-12-31,2021-12-31,2020-12-31,level,abstract,dimension
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,513983000000.0,469822000000.0,386064000000.0,3,False,False
+us-gaap_CostsAndExpensesAbstract,Operating Expenses,,,,3,False,False
+us-gaap_CostOfGoodsAndServicesSold,Cost of Revenue,288831000000.0,272344000000.0,233307000000.0,4,False,False
+us-gaap_MarketingExpense,Sales and marketing,42238000000.0,32551000000.0,22008000000.0,4,False,False
+us-gaap_GeneralAndAdministrativeExpense,"Selling, General and Administrative Expense",11891000000.0,8823000000.0,6668000000.0,4,False,False
+us-gaap_OtherOperatingIncomeExpenseNet,"Other operating expense (income), net",1263000000.0,62000000.0,-75000000.0,4,False,False
+us-gaap_CostsAndExpenses,Cost of Revenue,-501735000000.0,-444943000000.0,-363165000000.0,4,False,False
+us-gaap_OperatingIncomeLoss,Operating Income,12248000000.0,24879000000.0,22899000000.0,3,False,False
+us-gaap_InvestmentIncomeInterest,Interest income,989000000.0,448000000.0,555000000.0,3,False,False
+us-gaap_InterestExpense,Interest Expense,-2367000000.0,-1809000000.0,-1647000000.0,3,False,False
+us-gaap_OtherNonoperatingIncomeExpense,"Other income (expense), net",-16806000000.0,14633000000.0,2371000000.0,3,False,False
+us-gaap_NonoperatingIncomeExpense,Nonoperating Income/Expense,-18184000000.0,13272000000.0,1279000000.0,3,False,False
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Income (loss) before income taxes,-5936000000.0,38151000000.0,24178000000.0,3,False,False
+us-gaap_IncomeTaxExpenseBenefit,Income Tax Expense,3217000000.0,-4791000000.0,-2863000000.0,3,False,False
+us-gaap_IncomeLossFromEquityMethodInvestments,"Equity-method investment activity, net of tax",-3000000.0,4000000.0,16000000.0,3,False,False
+us-gaap_NetIncomeLoss,Net Income,-2722000000.0,33364000000.0,21331000000.0,3,False,False
+us-gaap_EarningsPerShareBasic,Earnings Per Share,-0.27,3.3,2.13,3,False,False
+us-gaap_EarningsPerShareDiluted,Earnings Per Share (Diluted),-0.27,3.24,2.09,3,False,False
+us-gaap_WeightedAverageNumberOfSharesOutstandingAbstract,Weighted-average shares used in computation of earnings per share:,,,,3,False,False
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,Shares Outstanding,10189000000.0,10117000000.0,10005000000.0,4,False,False
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,Shares Outstanding (Diluted),10189000000.0,10296000000.0,10198000000.0,4,False,False

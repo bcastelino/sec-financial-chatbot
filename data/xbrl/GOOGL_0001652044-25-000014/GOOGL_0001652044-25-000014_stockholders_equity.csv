@@ -1,0 +1,15 @@
+concept,label,2024-12-31,level,abstract,dimension
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],,3,False,False
+us-gaap_SharesIssued,Ending Balance (in shares),,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_StockIssuedDuringPeriodSharesNewIssues,Common and capital stock issued (in shares),130000000.0,4,False,False
+us-gaap_StockIssuedDuringPeriodValueNewIssues,Stock issued (in shares),,4,False,False
+us-gaap_AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,Stock-based compensation,22937000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodShares,Repurchases of stock (in shares),379000000.0,4,False,False
+us-gaap_StockRepurchasedAndRetiredDuringPeriodValue,Repurchases of stock,62047000000.0,4,False,False
+us-gaap_AdjustmentsToAdditionalPaidInCapitalDividendsInExcessOfRetainedEarnings,Dividends and dividend equivalents declared ($0.60 per share),7536000000.0,4,False,False
+us-gaap_NoncontrollingInterestIncreaseFromSaleOfParentEquityInterest,Sale of interest in consolidated entities,1154000000.0,4,False,False
+us-gaap_NetIncomeLoss,Net Income,100118000000.0,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,Other comprehensive income (loss),-398000000.0,4,False,False
+us-gaap_SharesIssued,Ending Balance (in shares),,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False

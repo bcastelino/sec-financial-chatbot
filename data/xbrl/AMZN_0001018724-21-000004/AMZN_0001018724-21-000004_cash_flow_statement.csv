@@ -1,0 +1,31 @@
+concept,label,2020-12-31,2019-12-31,level,abstract,dimension
+us-gaap_AssetsAbstract,ASSETS,,,1,False,False
+us-gaap_AssetsCurrentAbstract,Current assets:,,,2,False,False
+us-gaap_CashAndCashEquivalentsAtCarryingValue,Cash and Cash Equivalents,42122000000.0,36092000000.0,3,False,False
+us-gaap_MarketableSecuritiesCurrent,Current Marketable Securities,42274000000.0,18929000000.0,3,False,False
+us-gaap_InventoryNet,Inventory,23795000000.0,20497000000.0,3,False,False
+us-gaap_AccountsReceivableNetCurrent,Accounts Receivable,24542000000.0,20816000000.0,3,False,False
+us-gaap_AssetsCurrent,Total Current Assets,132733000000.0,96334000000.0,3,False,False
+us-gaap_PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization,"Property and equipment, net",113114000000.0,72705000000.0,2,False,False
+us-gaap_OperatingLeaseRightOfUseAsset,Operating leases,37553000000.0,25141000000.0,2,False,False
+us-gaap_Goodwill,Goodwill,15017000000.0,14754000000.0,2,False,False
+us-gaap_OtherAssetsNoncurrent,Other Assets,22778000000.0,16314000000.0,2,False,False
+us-gaap_Assets,Total Assets,321195000000.0,225248000000.0,2,False,False
+us-gaap_LiabilitiesAndStockholdersEquityAbstract,LIABILITIES AND STOCKHOLDERS’ EQUITY,,,1,False,False
+us-gaap_LiabilitiesCurrentAbstract,Current liabilities:,,,2,False,False
+us-gaap_AccountsPayableCurrent,Accounts Payable,72539000000.0,47183000000.0,3,False,False
+us-gaap_AccruedLiabilitiesCurrent,Accrued Liabilities,44138000000.0,32439000000.0,3,False,False
+us-gaap_ContractWithCustomerLiabilityCurrent,Revenue,9708000000.0,8190000000.0,3,False,False
+us-gaap_LiabilitiesCurrent,Total Current Liabilities,126385000000.0,87812000000.0,3,False,False
+us-gaap_LongTermDebtNoncurrent,Long-Term Debt,31816000000.0,23414000000.0,2,False,False
+us-gaap_OtherLiabilitiesNoncurrent,Other Liabilities,17017000000.0,12171000000.0,2,False,False
+us-gaap_CommitmentsAndContingencies,Commitments and contingencies (Note 7),,,2,False,False
+us-gaap_StockholdersEquityAbstract,Total Stockholders' Equity,,,2,False,False
+us-gaap_PreferredStockValue,Preferred Stock,0.0,0.0,3,False,False
+us-gaap_CommonStockValue,Common Stock,5000000.0,5000000.0,3,False,False
+us-gaap_TreasuryStockValue,Treasury Stock Common Value,-1837000000.0,-1837000000.0,3,False,False
+us-gaap_AdditionalPaidInCapital,Additional paid-in capital,42865000000.0,33658000000.0,3,False,False
+us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,Accumulated Other Comprehensive Income/Loss,-180000000.0,-986000000.0,3,False,False
+us-gaap_RetainedEarningsAccumulatedDeficit,Retained Earnings,52551000000.0,31220000000.0,3,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,93404000000.0,62060000000.0,3,False,False
+us-gaap_LiabilitiesAndStockholdersEquity,Total Liabilities and Stockholders' Equity,321195000000.0,225248000000.0,2,False,False

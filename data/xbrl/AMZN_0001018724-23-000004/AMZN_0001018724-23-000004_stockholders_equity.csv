@@ -1,0 +1,12 @@
+concept,label,2022-12-31,level,abstract,dimension
+us-gaap_IncreaseDecreaseInStockholdersEquityRollForward,Increase (Decrease) in Stockholders' Equity [Roll Forward],,3,False,False
+us-gaap_CommonStockSharesOutstanding,Common Stock Shares Outstanding,,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
+us-gaap_NetIncomeLoss,Net Income,-2722000000.0,4,False,False
+us-gaap_OtherComprehensiveIncomeLossNetOfTax,Other comprehensive income (loss),-3111000000.0,4,False,False
+us-gaap_StockIssuedDuringPeriodSharesEmployeeBenefitPlan,Stock-based compensation and issuance of employee benefit plan stock (in shares),113000000.0,4,False,False
+us-gaap_StockIssuedDuringPeriodValueEmployeeBenefitPlan,Stock-based compensation and issuance of employee benefit plan stock,19631000000.0,4,False,False
+us-gaap_TreasuryStockSharesAcquired,Common stock repurchased (in shares),46000000.0,4,False,False
+us-gaap_TreasuryStockValueAcquiredCostMethod,Common stock repurchased,6000000000.0,4,False,False
+us-gaap_CommonStockSharesOutstanding,Common Stock Shares Outstanding,,4,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,,4,False,False
