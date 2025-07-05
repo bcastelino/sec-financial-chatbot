@@ -1,0 +1,19 @@
+concept,label,2023-09-30,2022-09-24,2021-09-25,level,abstract,dimension
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax,Revenue,383285000000.0,394328000000.0,365817000000.0,3,False,False
+us-gaap_CostOfGoodsAndServicesSold,Cost of Revenue,-214137000000.0,-223546000000.0,-212981000000.0,3,False,False
+us-gaap_GrossProfit,Gross Profit,169148000000.0,170782000000.0,152836000000.0,3,False,False
+us-gaap_OperatingExpensesAbstract,Operating Expenses,,,,3,False,False
+us-gaap_ResearchAndDevelopmentExpense,Research and Development Expense,29915000000.0,26251000000.0,21914000000.0,4,False,False
+us-gaap_SellingGeneralAndAdministrativeExpense,"Selling, General and Administrative Expense",24932000000.0,25094000000.0,21973000000.0,4,False,False
+us-gaap_OperatingExpenses,Operating Expenses,-54847000000.0,-51345000000.0,-43887000000.0,4,False,False
+us-gaap_OperatingIncomeLoss,Operating Income,114301000000.0,119437000000.0,108949000000.0,3,False,False
+us-gaap_NonoperatingIncomeExpense,Nonoperating Income/Expense,-565000000.0,-334000000.0,258000000.0,3,False,False
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,Income Before Tax,113736000000.0,119103000000.0,109207000000.0,3,False,False
+us-gaap_IncomeTaxExpenseBenefit,Income Tax Expense,16741000000.0,19300000000.0,14527000000.0,3,False,False
+us-gaap_NetIncomeLoss,Net Income,96995000000.0,99803000000.0,94680000000.0,3,False,False
+us-gaap_EarningsPerShareAbstract,Earnings per share:,,,,3,False,False
+us-gaap_EarningsPerShareBasic,Earnings Per Share,6.16,6.15,5.67,4,False,False
+us-gaap_EarningsPerShareDiluted,Earnings Per Share (Diluted),6.13,6.11,5.61,4,False,False
+us-gaap_WeightedAverageNumberOfSharesOutstandingAbstract,Shares used in computing earnings per share:,,,,3,False,False
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,Shares Outstanding,15744231000.0,16215963000.0,16701272000.0,4,False,False
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,Shares Outstanding (Diluted),15812547000.0,16325819000.0,16864919000.0,4,False,False

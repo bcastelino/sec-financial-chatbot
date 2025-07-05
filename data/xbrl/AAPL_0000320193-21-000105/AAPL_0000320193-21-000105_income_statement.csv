@@ -1,0 +1,36 @@
+concept,label,2021-09-25,2020-09-26,level,abstract,dimension
+us-gaap_AssetsAbstract,ASSETS:,,,1,False,False
+us-gaap_AssetsCurrentAbstract,Current assets:,,,2,False,False
+us-gaap_CashAndCashEquivalentsAtCarryingValue,Cash and Cash Equivalents,34940000000.0,38016000000.0,3,False,False
+us-gaap_MarketableSecuritiesCurrent,Current Marketable Securities,27699000000.0,52927000000.0,3,False,False
+us-gaap_AccountsReceivableNetCurrent,Accounts Receivable,26278000000.0,16120000000.0,3,False,False
+us-gaap_InventoryNet,Inventory,6580000000.0,4061000000.0,3,False,False
+us-gaap_NontradeReceivablesCurrent,Vendor non-trade receivables,25228000000.0,21325000000.0,3,False,False
+us-gaap_OtherAssetsCurrent,Other Assets,14111000000.0,11264000000.0,3,False,False
+us-gaap_AssetsCurrent,Total Current Assets,134836000000.0,143713000000.0,3,False,False
+us-gaap_AssetsNoncurrentAbstract,Non-current assets:,,,2,False,False
+us-gaap_MarketableSecuritiesNoncurrent,Non Current Marketable Securities,127877000000.0,100887000000.0,3,False,False
+us-gaap_PropertyPlantAndEquipmentNet,"Property, Plant and Equipment",39440000000.0,36766000000.0,3,False,False
+us-gaap_OtherAssetsNoncurrent,Other Assets,48849000000.0,42522000000.0,3,False,False
+us-gaap_AssetsNoncurrent,Total Current Assets,216166000000.0,180175000000.0,3,False,False
+us-gaap_Assets,Total Assets,351002000000.0,323888000000.0,2,False,False
+us-gaap_LiabilitiesAndStockholdersEquityAbstract,LIABILITIES AND SHAREHOLDERS’ EQUITY:,,,1,False,False
+us-gaap_LiabilitiesCurrentAbstract,Current liabilities:,,,2,False,False
+us-gaap_AccountsPayableCurrent,Accounts Payable,54763000000.0,42296000000.0,3,False,False
+us-gaap_OtherLiabilitiesCurrent,Other Liabilities,47493000000.0,42684000000.0,3,False,False
+us-gaap_ContractWithCustomerLiabilityCurrent,Revenue,7612000000.0,6643000000.0,3,False,False
+us-gaap_CommercialPaper,Commercial paper,6000000000.0,4996000000.0,3,False,False
+us-gaap_LongTermDebtCurrent,Short-Term Debt,9613000000.0,8773000000.0,3,False,False
+us-gaap_LiabilitiesCurrent,Total Current Liabilities,125481000000.0,105392000000.0,3,False,False
+us-gaap_LiabilitiesNoncurrentAbstract,Non-current liabilities:,,,2,False,False
+us-gaap_LongTermDebtNoncurrent,Long-Term Debt,109106000000.0,98667000000.0,3,False,False
+us-gaap_OtherLiabilitiesNoncurrent,Other Liabilities,53325000000.0,54490000000.0,3,False,False
+us-gaap_LiabilitiesNoncurrent,Total Current Liabilities,162431000000.0,153157000000.0,3,False,False
+us-gaap_Liabilities,Total Liabilities,287912000000.0,258549000000.0,2,False,False
+us-gaap_CommitmentsAndContingencies,Commitments and contingencies,,,2,False,False
+us-gaap_StockholdersEquityAbstract,Shareholders’ equity:,,,2,False,False
+us-gaap_CommonStocksIncludingAdditionalPaidInCapital,Common Stock,57365000000.0,50779000000.0,3,False,False
+us-gaap_RetainedEarningsAccumulatedDeficit,Retained Earnings,5562000000.0,14966000000.0,3,False,False
+us-gaap_AccumulatedOtherComprehensiveIncomeLossNetOfTax,Accumulated Other Comprehensive Income/Loss,163000000.0,-406000000.0,3,False,False
+us-gaap_StockholdersEquity,Total Stockholders' Equity,63090000000.0,65339000000.0,3,False,False
+us-gaap_LiabilitiesAndStockholdersEquity,Total Liabilities and Stockholders' Equity,351002000000.0,323888000000.0,2,False,False
