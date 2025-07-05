@@ -1,0 +1,1800 @@
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-24-000123 ===
+Total chunks added: 46
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 9 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-23-000106 ===
+Total chunks added: 43
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 7 chunks
+  risk_factors: 27 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-22-000108 ===
+Total chunks added: 46
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 9 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-21-000105 ===
+Total chunks added: 47
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 7 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 10 chunks
+  risk_factors: 27 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-20-000096 ===
+Total chunks added: 49
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 5 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 17 chunks
+  risk_factors: 24 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0000950170-24-087843 ===
+Total chunks added: 87
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 28 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 27 chunks
+  risk_factors: 29 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0000950170-23-035122 ===
+Total chunks added: 90
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 29 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 27 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0001564590-22-026876 ===
+Total chunks added: 102
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 36 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 32 chunks
+  risk_factors: 31 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0001564590-21-039151 ===
+Total chunks added: 100
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 33 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 33 chunks
+  risk_factors: 31 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0001564590-20-034944 ===
+Total chunks added: 99
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 27 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 29 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-25-000014 ===
+Total chunks added: 81
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 13 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 34 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-24-000022 ===
+Total chunks added: 79
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 13 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 32 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-23-000016 ===
+Total chunks added: 72
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 28 chunks
+  risk_factors: 31 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-22-000019 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 25 chunks
+  risk_factors: 32 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-21-000010 ===
+Total chunks added: 81
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 38 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-20-000008 ===
+Total chunks added: 73
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 8 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-25-000004 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-24-000008 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-23-000004 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 33 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-22-000005 ===
+Total chunks added: 67
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 32 chunks
+  risk_factors: 26 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-21-000004 ===
+Total chunks added: 69
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 26 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-20-000004 ===
+Total chunks added: 62
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 30 chunks
+  risk_factors: 23 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-25-000023 ===
+Total chunks added: 93
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 22 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 47 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-24-000029 ===
+Total chunks added: 89
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 21 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 44 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-23-000017 ===
+Total chunks added: 83
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 22 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 37 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-22-000036 ===
+Total chunks added: 75
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 21 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-21-000010 ===
+Total chunks added: 74
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 19 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 22 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-20-000010 ===
+Total chunks added: 58
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 18 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 17 chunks
+  risk_factors: 20 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-25-000017 ===
+Total chunks added: 145
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 17 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 35 chunks
+  risk_factors: 90 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-24-000012 ===
+Total chunks added: 143
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 15 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 37 chunks
+  risk_factors: 88 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-23-000013 ===
+Total chunks added: 134
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 14 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 77 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-22-000018 ===
+Total chunks added: 131
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 78 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-21-000014 ===
+Total chunks added: 129
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 9 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 41 chunks
+  risk_factors: 76 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-20-000013 ===
+Total chunks added: 107
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 64 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-24-000123 ===
+Total chunks added: 46
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 9 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-25-000017 ===
+Total chunks added: 145
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 17 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 35 chunks
+  risk_factors: 90 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-24-000012 ===
+Total chunks added: 143
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 15 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 37 chunks
+  risk_factors: 88 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-23-000013 ===
+Total chunks added: 134
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 14 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 77 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-22-000018 ===
+Total chunks added: 131
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 78 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-21-000014 ===
+Total chunks added: 129
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 9 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 41 chunks
+  risk_factors: 76 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-20-000013 ===
+Total chunks added: 107
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 64 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-24-000123 ===
+Total chunks added: 46
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 9 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-23-000106 ===
+Total chunks added: 43
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 7 chunks
+  risk_factors: 27 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-22-000108 ===
+Total chunks added: 46
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 9 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-21-000105 ===
+Total chunks added: 47
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 7 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 10 chunks
+  risk_factors: 27 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AAPL 0000320193-20-000096 ===
+Total chunks added: 49
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 5 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 17 chunks
+  risk_factors: 24 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0000950170-24-087843 ===
+Total chunks added: 87
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 28 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 27 chunks
+  risk_factors: 29 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0000950170-23-035122 ===
+Total chunks added: 90
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 29 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 27 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0001564590-22-026876 ===
+Total chunks added: 102
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 36 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 32 chunks
+  risk_factors: 31 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0001564590-21-039151 ===
+Total chunks added: 100
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 33 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 33 chunks
+  risk_factors: 31 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR MSFT 0001564590-20-034944 ===
+Total chunks added: 99
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 27 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 29 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-25-000014 ===
+Total chunks added: 81
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 13 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 34 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-24-000022 ===
+Total chunks added: 79
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 13 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 32 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-23-000016 ===
+Total chunks added: 72
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 28 chunks
+  risk_factors: 31 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-22-000019 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 25 chunks
+  risk_factors: 32 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-21-000010 ===
+Total chunks added: 81
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 38 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR GOOGL 0001652044-20-000008 ===
+Total chunks added: 73
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 8 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-25-000004 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-24-000008 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 31 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-23-000004 ===
+Total chunks added: 70
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 33 chunks
+  risk_factors: 28 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-22-000005 ===
+Total chunks added: 67
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 32 chunks
+  risk_factors: 26 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-21-000004 ===
+Total chunks added: 69
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 26 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR AMZN 0001018724-20-000004 ===
+Total chunks added: 62
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 30 chunks
+  risk_factors: 23 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-25-000023 ===
+Total chunks added: 93
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 22 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 47 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-24-000029 ===
+Total chunks added: 89
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 21 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 44 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-23-000017 ===
+Total chunks added: 83
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 22 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 37 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-22-000036 ===
+Total chunks added: 75
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 21 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 21 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-21-000010 ===
+Total chunks added: 74
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 19 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 22 chunks
+  risk_factors: 30 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR NVDA 0001045810-20-000010 ===
+Total chunks added: 58
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 18 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 17 chunks
+  risk_factors: 20 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-25-000017 ===
+Total chunks added: 145
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 17 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 35 chunks
+  risk_factors: 90 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-24-000012 ===
+Total chunks added: 143
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 15 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 37 chunks
+  risk_factors: 88 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-23-000013 ===
+Total chunks added: 134
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 14 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 77 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-22-000018 ===
+Total chunks added: 131
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 10 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 40 chunks
+  risk_factors: 78 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-21-000014 ===
+Total chunks added: 129
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 9 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 41 chunks
+  risk_factors: 76 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+
+=== STRUCTURED INGESTION SUMMARY FOR META 0001326801-20-000013 ===
+Total chunks added: 107
+Unique sections: 6
+Max chunk size: 3000
+Overlap size: 300
+
+Section breakdown:
+  balance_sheet: 1 chunks
+  business_description: 6 chunks
+  cash_flow_statement: 1 chunks
+  income_statement: 1 chunks
+  management_discussion: 34 chunks
+  risk_factors: 64 chunks
+
+Unique sections found:
+  BALANCE SHEET
+  BUSINESS
+  CASH FLOW STATEMENT
+  INCOME STATEMENT
+  MANAGEMENT'S DISCUSSION AND ANALYSIS
+  RISK FACTORS
+
+================================================================================
+

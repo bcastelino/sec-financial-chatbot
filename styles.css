@@ -1,0 +1,101 @@
+.company-list {
+    margin-top: 0;
+}
+.company-row {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 18px;
+}
+.company-icon {
+    font-size: 22px;
+    margin-right: 12px;
+    margin-top: 2px;
+    min-width: 22px;
+}
+.company-info {
+    display: flex;
+    flex-direction: column;
+}
+.company-name {
+    font-weight: 700;
+    color: #e0e0e0;
+    font-size: 1.08rem;
+    margin-bottom: 0px;
+    line-height: 1.1;
+}
+.company-symbol {
+    font-weight: 700;
+    color: #e0f11f;
+    font-size: 1.08rem;
+    margin-left: 4px;
+}
+.company-sector {
+    color: #bdbdbd;
+    font-size: 0.98rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 700;
+    margin-top: 0.2em;
+    margin-bottom: 0.1em;
+    color: #fff;
+}
+.subtitle {
+    text-align: center;
+    font-size: 1.1em;
+    color: #e0e0e0;
+    margin-bottom: 0.5em;
+}
+.description {
+    text-align: center;
+    font-size: 1.1em;
+    color: #e0e0e0;
+    margin-bottom: 2em;
+    margin-top: 0.5em;
+}
+.quick-btn-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 1em;
+    margin-bottom: 2em;
+    overflow-x: auto;
+    padding-bottom: 0.5em;
+}
+.quick-btn {
+    background: transparent;
+    color: #e0e0e0;
+    border: 1.5px solid #888;
+    border-radius: 14px;
+    padding: 1em 1.2em;
+    font-size: 1em;
+    font-weight: 400;
+    cursor: pointer;
+    min-width: 210px;
+    text-align: left;
+    box-shadow: none;
+    transition: border 0.2s, box-shadow 0.2s;
+    white-space: normal;
+}
+.quick-btn:hover {
+    border: 1.5px solid #bbb;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    background: transparent;
+    color: #e0e0e0;
+}
+.center-logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+.author-line {
+    text-align: center;
+    color: #b0b0b0;
+    font-size: 0.95em;
+    margin-bottom: 0.5em;
+}
