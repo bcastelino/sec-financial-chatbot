@@ -8,7 +8,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about SEC 
 
 ---
 
-## 🖼️ Extension Preview
+## 🖼️ UI Preview
 
 <table>
   <tr>
