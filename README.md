@@ -297,3 +297,47 @@ Edit `config.py` to customize:
 ## 📄 License
 
 This project is licensed under the MIT License. 
+
+---
+
+## 🐱‍👤 Author
+
+<table>
+   <tr>
+      <td>
+         <div style="flex-shrink: 0; order: 2;">
+            <img src="https://raw.githubusercontent.com/bcastelino/brian-portfolio/refs/heads/main/public/personal/profile.jpg" alt="Brian Denis Castelino" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 4px solid #fff; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+         </div>
+      </td>
+      <td>
+         <div align="left" style="padding: 20px;">
+            <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; max-width: 800px; gap: 40px; text-align: center;">
+               <div style="flex: 1; min-width: 250px; order: 1;">
+                  <h1 style="font-size: 2em; margin-bottom: 5px; color: #333;">Brian Denis Castelino</h1>
+                  <p style="font-size: 1.2em; color: #555; margin-bottom: 10px;">Data Analytics Engineer | AI Enthusiast</p>
+                  <p style="font-size: 1em; color: #777; margin-bottom: 20px;">I turn vague ideas into clean, working systems, because someone’s got to 🤖</p>
+                  <div style="display: flex; justify-content: center; gap: 30px;">
+                     <a href="https://github.com/bcastelino" target="_blank" style="text-decoration: none;">
+                     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494756.png" alt="GitHub" width="30" height="30" style="width: 30px; height: 30px;">
+                     </a>
+                     <a href="https://linkedin.com/in/cas7elino" target="_blank" style="text-decoration: none;">
+                     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png" alt="LinkedIn" width="30" height="30" style="width: 30px; height: 30px;">
+                     </a>
+                     <a href="https://twitter.com/cas7elino" target="_blank" style="text-decoration: none;">
+                     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494481.png" alt="Twitter" width="30" height="30" style="width: 30px; height: 30px;">
+                     </a>
+                     <a href="https://instagram.com/cas7elino" target="_blank" style="text-decoration: none;">
+                     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494489.png" alt="Instagram" width="30" height="30" style="width: 30px; height: 30px;">
+                     </a>
+                     <a href="https://brianc.framer.website/" target="_blank" style="text-decoration: none;">
+                     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494636.png" alt="Website" width="30" height="30" style="width: 30px; height: 30px;">
+                     </a>
+                  </div>
+               </div>
+      </td>
+      </div>
+      </div>
+   </tr>
+</table>
+
+---
