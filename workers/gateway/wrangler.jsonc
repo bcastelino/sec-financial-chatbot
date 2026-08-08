@@ -1,0 +1,54 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "filing-room-gateway",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-08",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "../../apps/web/dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    "ENVIRONMENT": "development",
+    "DAILY_ANSWER_LIMIT": "5",
+    "API_BASE_URL": "http://localhost:8000",
+    "SEC_IDENTITY": "Filing Room admin@bcastelino.com",
+    "OPENROUTER_MODEL": "deepseek/deepseek-v4-flash-0731",
+    "METADATA_BACKEND": "cloudflare"
+  },
+  "containers": [
+    {
+      "class_name": "ApiContainer",
+      "image": "../../apps/api/Dockerfile",
+      "instance_type": "lite",
+      "max_instances": 2
+    }
+  ],
+  "durable_objects": {
+    "bindings": [
+      { "name": "API_CONTAINER", "class_name": "ApiContainer" }
+    ]
+  },
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["ApiContainer"] }
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "filing-room",
+      "database_id": "replace-with-production-d1-id",
+      "migrations_dir": "../../infra/d1/migrations"
+    }
+  ],
+  "r2_buckets": [
+    { "binding": "FILINGS", "bucket_name": "filing-room-filings" }
+  ],
+  "vectorize": [
+    { "binding": "VECTORS", "index_name": "filing-room-chunks" }
+  ],
+  "ai": { "binding": "AI" },
+  "observability": { "enabled": true },
+  "triggers": { "crons": ["17 3 * * *"] }
+}
