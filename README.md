@@ -1,150 +1,240 @@
-<p align="center">
-  <img src="fevicon.png" alt="SEC Financial Chatbot Icon" width="90"/>
-</p>
+# Filing Room
 
-<h1 align="center">SEC Financial Chatbot</h1>
+**Ask the filing. Trace the answer.**
 
-<p align="center">
-  A fully static React chatbot that answers questions about SEC EDGAR filings using live data and your own LLM API key. Hosted on GitHub Pages.
-</p>
+Filing Room is an open-source SEC research workspace for exploring public-company
+10-K and 10-Q filings. It combines deterministic financial calculations,
+filing-scoped retrieval, streamed answers, and source-level citations in an
+editorial React interface.
 
-> ⚠️ **Looking for the original Streamlit / Python RAG implementation?** It lives on the
-> [`streamlit-legacy`](https://github.com/bcastelino/sec-financial-chatbot/tree/streamlit-legacy) branch.
+![Filing Room social preview](apps/web/public/social-preview.svg)
 
----
+[![CI](https://github.com/bcastelino/sec-financial-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/bcastelino/sec-financial-chatbot/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-102338.svg)](LICENSE)
 
-## ✨ What it does
+> Filing Room is not affiliated with the U.S. Securities and Exchange
+> Commission. It is not investment advice. Verify material conclusions against
+> the original filing.
 
-- Chat naturally about US public-company filings (10-K, 10-Q).
-- Pulls **live** structured financials from SEC's XBRL `companyfacts` API.
-- Fetches narrative sections (Risk Factors, MD&A, Business, …) directly from the filing on demand.
-- Sends only the retrieved context (plus your message) to the LLM you choose.
-- Renders Markdown answers with inline citations linking back to sec.gov.
-- 100% client-side. No backend. No database. Your API key never leaves your browser except when calling the LLM provider.
+## Why Filing Room
 
-## 🧱 Architecture
+SEC filings are authoritative, but researching several issuers and fiscal years
+usually means moving between long documents, spreadsheets, and search tools.
+Filing Room treats chat as one part of a broader research workspace:
 
+- Begin with an issuer, filing form, and fiscal-year scope.
+- Use normalized SEC Company Facts for financial values and calculations.
+- Search narrative disclosures without sending whole filings to a model.
+- Inspect the exact excerpt and original SEC document behind each citation.
+- Keep anonymous research history in the browser instead of on the server.
+
+The prior Streamlit implementation remains available on the
+[`streamlit-legacy`](https://github.com/bcastelino/sec-financial-chatbot/tree/streamlit-legacy)
+branch. Filing Room replaces the former browser-only React version, including
+its client-side API keys and third-party SEC proxy dependency.
+
+## Current implementation
+
+### Working locally
+
+- Responsive landing, company, research, and methodology pages
+- Original Filing Room SVG identity, favicon, social preview, and dark theme
+- Company, form, and fiscal-year research scope for up to three issuers
+- Server-Sent Events for retrieval progress and streamed answers
+- Citation validation, exact excerpts, and direct SEC filing links
+- SEC Submissions and Company Facts ingestion through an identified backend
+- Deterministic XBRL fact selection, amendment handling, growth, and margins
+- Structured heading, narrative, and standalone-table chunking
+- Server-controlled OpenRouter generation with an offline extractive fallback
+- CSV export, scope-only share URLs, and up to 20 IndexedDB conversations
+- Cloudflare Worker bindings for D1, R2, Vectorize, Workers AI, and Containers
+- Turnstile, origin checks, request limits, CSP, and daily quota implementation
+
+### Production hardening still required
+
+- Connect metadata-filtered Vectorize querying and reranker calibration
+- Move document-tree extraction fully onto the EdgarTools 5 document model
+- Replace the current comparison export prototype with a complete comparison table
+- Expand golden fixtures to 20 or more filings and the evaluation set to 60 questions
+- Provision Cloudflare resources, prewarm the issuer cache, and attach `sec.bcastelino.com`
+
+The Cloudflare deployment has not been performed from this repository. Current
+status and limitations are documented in
+[the methodology](docs/methodology.md) and [deployment guide](docs/deployment.md).
+
+## Architecture
+
+```text
+Browser
+  |
+  +-- React application and static assets
+  |     +-- IndexedDB conversation history
+  |     +-- sanitized Markdown and citation renderer
+  |
+  +-- Cloudflare Worker gateway
+        +-- Turnstile, origin policy, CSP, and request limits
+        +-- D1 company catalog, ingestion state, and quota counters
+        +-- R2 raw filings and compressed parsed documents
+        +-- Workers AI embeddings and Vectorize index
+        |
+        +-- scale-to-zero Python Container
+              +-- FastAPI and Server-Sent Events
+              +-- SEC Submissions, Company Facts, and filing HTML
+              +-- structured extraction and deterministic calculations
+              +-- one bounded, server-controlled OpenRouter call
 ```
-Browser (React SPA on GitHub Pages)
-   │
-   ├── Ticker → CIK     ── public/data/company_tickers.json snapshot + live refresh
-   ├── SEC EDGAR API    ── data.sec.gov (submissions, XBRL facts) + www.sec.gov/Archives (filing HTML)
-   └── LLM API (BYOK)   ── OpenRouter or OpenAI, called directly with your key from localStorage
+
+The SEC client accepts only known SEC hosts and server-derived filing URLs. It
+uses an identified `User-Agent`, retries temporary failures, and remains at or
+below five SEC requests per second.
+
+## Repository layout
+
+```text
+apps/web/             React, TypeScript, Vite, Vitest, and Playwright tooling
+apps/api/             FastAPI, SEC ingestion, extraction, retrieval, and tests
+packages/contracts/   Shared public TypeScript contracts
+workers/gateway/      Cloudflare gateway, security, quota, and Container bindings
+infra/d1/             D1 database migrations
+infra/prewarm/        Popular-100 issuer seed list
+docs/                 Architecture, methodology, deployment, and case study
+scripts/              Repository-level validation scripts
 ```
 
-For each user turn the app:
+## Local preview
 
-1. Extracts intent (companies, years, forms, sections, numeric vs narrative).
-2. Pulls just-enough context: XBRL facts for numbers, on-demand 10-K section text for narrative.
-3. Builds a single Markdown CONTEXT block and streams a Markdown answer back from the chosen LLM.
+### Prerequisites
 
-## 🚀 Run locally
+- Node.js 22 or newer
+- Corepack
+- Python 3.12 or 3.13
+- [uv](https://docs.astral.sh/uv/)
+
+### Interface-only preview
+
+The frontend can run without the Python API. Company search and overview pages
+use bundled demonstration data when the API is unavailable. Generated chat is
+not available in this mode.
 
 ```bash
-npm install
-npm run dev
+corepack pnpm install --frozen-lockfile
+corepack pnpm --filter @filing-room/web dev
 ```
 
-Open the printed URL (usually <http://localhost:5173/sec-financial-chatbot/>). On first send, paste an API key when prompted.
+Open `http://localhost:5173`.
 
-## 🌐 Deploy
+### Full local stack
 
-This repo deploys automatically to GitHub Pages via `.github/workflows/deploy.yml` on every push to `main`.
+Install both dependency sets from the repository root:
 
-To enable it in a fresh fork:
-
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-2. Push to `main`.
-
-The Vite `base` is set to `/sec-financial-chatbot/`; change it in `vite.config.ts` if you host under a different path.
-
-## 🔑 BYOK (Bring Your Own Key)
-
-The app calls the LLM provider directly from your browser. We support:
-
-- **OpenRouter** (default) — get a key at <https://openrouter.ai/keys>. Many models, including free tiers.
-- **OpenAI** — get a key at <https://platform.openai.com/api-keys>.
-
-Your key is stored only in `localStorage` and is sent only to the provider you select.
-
-Default model suggestions (editable from the modal):
-
-- `openrouter/auto` — OpenRouter chooses the best model for the prompt
-- `openrouter/free` — OpenRouter routes to a free-tier model
-- `openai/gpt-oss-120b:free`
-- `nvidia/nemotron-3-super-120b-a12b:free`
-- `google/gemma-4-26b-a4b-it:free`
-- `nousresearch/hermes-3-llama-3.1-405b:free`
-
-## 📚 SEC EDGAR endpoints used
-
-| Purpose | Endpoint |
-|---|---|
-| Ticker → CIK map | `https://www.sec.gov/files/company_tickers.json` |
-| Filing index for a company | `https://data.sec.gov/submissions/CIK##########.json` |
-| XBRL company facts | `https://data.sec.gov/api/xbrl/companyfacts/CIK##########.json` |
-| Filing primary document | `https://www.sec.gov/Archives/edgar/data/<cik>/<accession-nodashes>/<file>` |
-
-SEC asks API consumers to identify themselves and stay under ~10 req/s. Browsers can't set `User-Agent`, but we throttle to ~5 req/s and cache responses for 5 minutes. Please be respectful — don't hammer the endpoints.
-
-### CORS / public proxy
-
-SEC's APIs (`data.sec.gov`, `www.sec.gov`) do **not** send `Access-Control-Allow-Origin` headers, so a static SPA in a browser cannot read their responses directly. The app routes all SEC requests through a public CORS proxy by default:
-
-```
-https://corsproxy.io/?url=<sec-url>
+```bash
+corepack pnpm install --frozen-lockfile
+cd apps/api
+uv sync --frozen
 ```
 
-You can override it from DevTools:
+Start the API in the first terminal:
 
-```js
-localStorage.setItem('sec-chat:proxy-base', 'https://your-proxy.example.com/?url=')
-// or to disable the proxy entirely (only works locally with a browser CORS extension):
-localStorage.setItem('sec-chat:proxy-base', '')
+```bash
+cd apps/api
+uv run uvicorn filing_room.main:app --reload --port 8000
 ```
 
-For production / heavy use, deploy your own proxy (e.g. a tiny Cloudflare Worker that forwards GETs to `data.sec.gov` and adds CORS headers) and point the app at it.
+Start the web application in a second terminal from the repository root:
 
-### Known limits
-
-- **CORS on `www.sec.gov/Archives`**: filing HTML is fetched via the proxy too, but may occasionally return slowly or fail under proxy load. When that happens you'll see a warning in the answer and only XBRL-based context will be used. Numerical questions still work.
-- **Section extraction is heuristic** — it locates Items by scanning for headings. Some filers use unusual TOC structures and a section may come back partial.
-- **LLM context window**: section text is truncated to ~12k chars per section. Ask narrower questions for higher-fidelity answers.
-
-## 💡 Example questions
-
-- *What was AAPL revenue in 2022, 2023, and 2024?*
-- *Compare MSFT and GOOGL net income for FY2023.*
-- *Summarize NVDA risk factors from the latest 10-K.*
-- *What does AMZN's MD&A say about AWS margins?*
-
-## 🛠 Project structure
-
-```
-sec-financial-chatbot/
-├── .github/workflows/deploy.yml      GitHub Pages deploy
-├── public/
-│   ├── fevicon.png
-│   └── data/company_tickers.json     ticker → CIK snapshot
-├── src/
-│   ├── App.tsx                       top-level state machine
-│   ├── main.tsx                      Vite entry
-│   ├── components/                   UI (Landing, ChatRoom, ChatInput, ApiKeyModal, …)
-│   ├── lib/
-│   │   ├── sec/                      tickers, submissions, facts, filingDoc, rateLimiter
-│   │   ├── llm/                      OpenRouter streaming, prompt builder, intent extractor
-│   │   └── storage.ts                localStorage helpers
-│   └── styles/globals.css            Tailwind + chat markdown styling
-├── index.html
-├── tailwind.config.ts
-├── vite.config.ts                    base: '/sec-financial-chatbot/'
-└── tsconfig.json
+```bash
+corepack pnpm --filter @filing-room/web dev
 ```
 
-## 📄 License
+Vite proxies `/api/*` to `http://localhost:8000`. Without an OpenRouter key,
+the API returns a clearly labeled extractive answer so retrieval, streaming,
+citations, and source inspection can still be reviewed.
 
-MIT — see [`LICENSE`](LICENSE).
+### Optional local model configuration
 
-## 🐱‍👤 Author
+Create `apps/api/.env` and keep it untracked:
 
-Built by **Brian Denis Castelino**. Original Streamlit + RAG implementation is preserved on the [`streamlit-legacy`](https://github.com/bcastelino/sec-financial-chatbot/tree/streamlit-legacy) branch.
+```env
+OPENROUTER_API_KEY=your-server-side-key
+OPENROUTER_MODEL=deepseek/deepseek-v4-flash-0731
+SEC_IDENTITY=Filing Room your-monitored-email@example.com
+```
+
+Never expose provider credentials through a `VITE_` variable. The supplied
+`.env.example` contains the complete configuration reference.
+
+## API surface
+
+| Method | Path                                  | Purpose                |
+| ------ | ------------------------------------- | ---------------------- |
+| `GET`  | `/api/v1/health`                      | Liveness               |
+| `GET`  | `/api/v1/ready`                       | Readiness              |
+| `GET`  | `/api/v1/companies/search`            | Issuer search          |
+| `GET`  | `/api/v1/companies/{ticker}/overview` | Facts and filings      |
+| `GET`  | `/api/v1/companies/{ticker}/filings`  | Filing catalog         |
+| `GET`  | `/api/v1/sources/{source_id}`         | Supporting excerpt     |
+| `GET`  | `/api/v1/quota`                       | Anonymous answer quota |
+| `POST` | `/api/v1/chat/stream`                 | Scoped research stream |
+
+Chat streams `retrieval.status`, `answer.delta`, `answer.sources`,
+`quota.updated`, `done`, and `error` events.
+
+## Quality checks
+
+Frontend, contracts, and gateway:
+
+```bash
+corepack pnpm lint
+corepack pnpm typecheck
+corepack pnpm test
+corepack pnpm build
+```
+
+Python API:
+
+```bash
+cd apps/api
+uv run ruff check .
+uv run mypy filing_room
+uv run pytest
+```
+
+`pnpm lint` also rejects em dash characters in repository-owned files. CI uses
+mocked or fixture-backed tests and does not require live SEC, OpenRouter, or
+Cloudflare access.
+
+## Security and privacy
+
+- OpenRouter, Cloudflare, and SEC identity credentials remain server-side.
+- Arbitrary outbound SEC URLs are rejected.
+- Filing contents are treated as untrusted prompt data.
+- Markdown is sanitized and unknown citation IDs are not activated.
+- Shared URLs contain scope and a question, not answers or history.
+- Browser history is limited to 20 conversations and can be cleared locally.
+- Production logs are designed to omit full prompts, answers, raw IPs, and secrets.
+
+Please report vulnerabilities through [SECURITY.md](SECURITY.md), not a public issue.
+
+## Deployment
+
+The target is Cloudflare Workers Static Assets with a Worker gateway and a
+scale-to-zero FastAPI Container. D1, R2, Workers AI, and Vectorize provide the
+catalog, object storage, embeddings, and index. OpenRouter access is controlled
+by a server-side key with a planned $7 monthly limit.
+
+Production setup requires the repository owner's Cloudflare and OpenRouter
+accounts, Docker, secret configuration, D1 migrations, staging validation, and
+the `sec.bcastelino.com` custom domain. Follow [docs/deployment.md](docs/deployment.md).
+
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Extraction and retrieval methodology](docs/methodology.md)
+- [Cloudflare deployment](docs/deployment.md)
+- [Portfolio case study](docs/case-study.md)
+- [Contributing](CONTRIBUTING.md)
+- [Security policy](SECURITY.md)
+
+## License
+
+Released under the [MIT License](LICENSE). Copyright 2026 Brian Castelino.
