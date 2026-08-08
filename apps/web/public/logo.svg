@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 96" role="img" aria-labelledby="title">
+  <title id="title">Filing Room</title>
+  <g transform="translate(4 8)">
+    <path d="M8 3h39l23 23v51H8z" fill="#102338"/>
+    <path d="M47 3v24h23" fill="none" stroke="#f4f0e8" stroke-width="4"/>
+    <path d="m20 56 14-14 10 8 16-20" fill="none" stroke="#f4f0e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 66h39" stroke="#f4f0e8" stroke-width="3"/>
+  </g>
+  <text x="96" y="66" fill="#102338" font-family="Newsreader,Georgia,serif" font-size="58" font-weight="600">Filing Room</text>
+</svg>
