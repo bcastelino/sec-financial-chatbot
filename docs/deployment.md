@@ -3,6 +3,10 @@
 These steps require the owner's Cloudflare and OpenRouter accounts. They are
 intentionally not automated from a contributor workstation.
 
+This page is the concise deployment sequence. Complete the full
+[production readiness checklist](production-readiness-checklist.md) before
+attaching the public domain.
+
 ## 1. Prepare provider guardrails
 
 Create a dedicated OpenRouter key restricted to the configured model and set a

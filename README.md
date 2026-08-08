@@ -231,6 +231,7 @@ the `sec.bcastelino.com` custom domain. Follow [docs/deployment.md](docs/deploym
 - [Architecture](docs/architecture.md)
 - [Extraction and retrieval methodology](docs/methodology.md)
 - [Cloudflare deployment](docs/deployment.md)
+- [Production readiness checklist](docs/production-readiness-checklist.md)
 - [Portfolio case study](docs/case-study.md)
 - [Contributing](CONTRIBUTING.md)
 - [Security policy](SECURITY.md)
