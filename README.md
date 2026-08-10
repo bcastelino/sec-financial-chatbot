@@ -1,4 +1,10 @@
-# Filing Room
+<div align="center">
+
+<p align="center">
+  <img src="apps/web/public/favicon.png" alt="Filing Room" width="200" />
+</p>
+
+# SEC EDGAR Filing Room
 
 **Ask the filing. Trace the answer.**
 
@@ -9,12 +15,14 @@ editorial React interface.
 
 ![Filing Room social preview](apps/web/public/social-preview.svg)
 
-[![CI](https://github.com/bcastelino/sec-financial-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/bcastelino/sec-financial-chatbot/actions/workflows/ci.yml)
+[![CI](https://github.com/bcastelino/sec-filing-room/actions/workflows/ci.yml/badge.svg)](https://github.com/bcastelino/sec-filing-room/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-102338.svg)](LICENSE)
 
-> Filing Room is not affiliated with the U.S. Securities and Exchange
-> Commission. It is not investment advice. Verify material conclusions against
-> the original filing.
+> Filing Room is not affiliated with the U.S. Securities and Exchange Commission. It is not investment advice. Verify material conclusions against the original filing.
+
+</div>
+
+---
 
 ## Why Filing Room
 
@@ -29,7 +37,7 @@ Filing Room treats chat as one part of a broader research workspace:
 - Keep anonymous research history in the browser instead of on the server.
 
 The prior Streamlit implementation remains available on the
-[`streamlit-legacy`](https://github.com/bcastelino/sec-financial-chatbot/tree/streamlit-legacy)
+[`streamlit-legacy`](https://github.com/bcastelino/sec-filing-room/tree/streamlit-legacy)
 branch. Filing Room replaces the former browser-only React version, including
 its client-side API keys and third-party SEC proxy dependency.
 
