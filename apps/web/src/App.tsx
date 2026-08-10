@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { Route, Routes, useLocation } from "react-router-dom";
+import { CookieConsent } from "./components/CookieConsent";
 import { Header } from "./components/Header";
+import { pageview } from "./lib/analytics";
 import { AboutPage } from "./pages/AboutPage";
 import { CompanyPage } from "./pages/CompanyPage";
 import { LandingPage } from "./pages/LandingPage";
@@ -12,6 +14,7 @@ export function App() {
   const location = useLocation();
   const [theme, setTheme] = useState<Theme>(() => (localStorage.getItem("filing-room-theme") as Theme | null) ?? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
   useEffect(() => { document.documentElement.dataset.theme = theme; localStorage.setItem("filing-room-theme", theme); }, [theme]);
+  useEffect(() => { pageview(location.pathname + location.search); }, [location]);
   return (
     <div className="app">
       <a href="#main-content" className="skip-link">Skip to content</a>
@@ -26,6 +29,7 @@ export function App() {
         </Routes>
       </div>
       {location.pathname !== "/research" && <footer className="site-footer"><span>Filing Room · Built by Brian Castelino</span><span>Not affiliated with the SEC · Not investment advice</span></footer>}
+      <CookieConsent />
     </div>
   );
 }

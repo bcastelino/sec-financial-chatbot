@@ -50,6 +50,14 @@ svg { flex: 0 0 auto; }
 .skip-link { position: fixed; left: 16px; top: -60px; padding: 10px 14px; background: var(--ink); color: var(--canvas); z-index: 100; }
 .skip-link:focus { top: 12px; }
 
+.cookie-consent { position: fixed; bottom: 20px; right: 20px; left: 20px; z-index: 100; margin-left: auto; width: min(340px, calc(100vw - 40px)); background: var(--paper-raised); border: 1px solid var(--line); border-radius: 14px; padding: 20px; box-shadow: var(--shadow); }
+.cookie-consent p { margin: 0 0 14px; font-size: 13px; line-height: 1.6; color: var(--ink-soft); }
+.cookie-consent-actions { display: flex; justify-content: flex-end; gap: 10px; }
+.cookie-consent-actions button { border-radius: 8px; padding: 8px 16px; font-size: 13px; font-weight: 560; border: 1px solid var(--line-strong); background: transparent; color: var(--ink); transition: background .15s ease, border-color .15s ease; }
+.cookie-consent-actions button:hover { background: var(--blue-soft); }
+.cookie-consent-actions .consent-accept { background: var(--blue); border-color: var(--blue); color: var(--canvas); }
+.cookie-consent-actions .consent-accept:hover { background: var(--blue-strong); border-color: var(--blue-strong); }
+
 .site-header { height: 72px; padding: 0 max(24px, calc((100vw - 1180px) / 2)); display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; border-bottom: 1px solid var(--line); background: color-mix(in srgb, var(--canvas) 92%, transparent); backdrop-filter: blur(14px); position: relative; z-index: 30; }
 .logo-link { justify-self: start; }
 .brand { display: inline-flex; align-items: center; gap: 10px; }
